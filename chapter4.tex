@@ -1,0 +1,27 @@
+\chapter{Aim 3}
+
+\section{Abstract}
+
+\section{Introduction}
+
+\section{Methods}
+
+
+
+\subsection{EEG Acquisition and Processing}
+EEG measures electrical activity from the brain via electrodes placed on the scalp. As cortical regions are active, extracellular current creates inhibitory and excitatory post synaptic potentials which are detected by the scalp electrodes \cite{kuperberg_electroencephalography_2004}. Subjects will be fitted with a standard 58-channel EEG cap (\textit{Electrocap, Eaton, OH}) with a sampling rate of 1000 Hz \textit{Synamps 2, Neuroscan, Charlotte, NC, USA}). Brain activity will be measured during the performance of the Probabilistic Choice Reaction Task (PCRT, described below) by responding to images on the screen on a custom built, two button keypad (\textit{Arduino Uno, www.arduino.cc}). Eye blinks and movement artifacts will be recorded using electrooculographic (EOG) activity and subtracted from the data offline. Data will initially be analyzed by examining changes in the event-related potentials (ERP) compared across each condition but also over time. This allows for investigation into specific sensory and cognitive responses to on-screen stimuli and movement generation.  
+
+The raw, continuous EEG was leaded into EEG lab \cite{delorme_eeglab:_2004} for subsequent post-processing and analysis. All data was first high-pass filtered at 0.5 Hz and low-pass filtered at 50 Hz. Bad channels (those with maximum), bad channels were identified, rejected and interpolated. Data was then epoched from 100 ms pre- stimulus onset to 500 ms post-stimulus for all 945 stimuli presentations with baseline correction from 100 to 0 msec, to provide epochs for subsequent event-related potential (ERP) analysis. An independent component analysis (ICA) was then conducted, utilizing EEGLAB’s runica algorithm, to assist in removal of blink and other stereotypical movement artifact components. Selection of components for removal was based on visual inspection of scalp map localization, unusual spectral frequency patterns and irregular ERP-image activity. An average of 7 of 58 components per participant was selected for subtraction. After removal of artifact components, data was segmented into 27 separate datasets, one for each block. A separate dipole fitting analysis was then conducted, utilizing EEGLAB’s DIPFIT plugin [21], for every block for each subject. Dipole localization was determined utilizing the Talairach Client application [22]. After pre-processing, all datasets were loaded into a STUDY structure for group analysis.
+
+
+
+
+
+
+
+
+\section{Results}
+
+\section{Discussion}
+
+\section{Conclusion}

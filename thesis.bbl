@@ -1,0 +1,4083 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{grandjean_dehydration_2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GA}{%
+         family={Grandjean},
+         familyi={G\bibinitperiod},
+         given={AC},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Grandjean},
+         familyi={G\bibinitperiod},
+         given={NR},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Cognition, Cognition Disorders, Dehydration, Humans,
+  Neuropsychological Tests, Psychomotor Performance, Task Performance and
+  Analysis}
+    \strng{namehash}{GAGN1}
+    \strng{fullhash}{GAGN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Human neuropsychology investigates brain-behavior relationships, using
+  objective tools (neurological tests) to tie the biological and behavior
+  aspects together. The use of neuropsychological assessment tools in assessing
+  potential effects of dehydration is a natural progression of the scientific
+  pursuit to understand the physical and mental ramifications of dehydration.
+  It has long been known that dehydration negatively affects physical
+  performance. Examining the effects of hydration status on cognitive function
+  is a relatively new area of research, resulting in part from our increased
+  understanding of hydration's impact on physical performance and advances in
+  the discipline of cognitive neuropsychology. The available research in this
+  area, albeit sparse, indicates that decrements in physical, visuomotor,
+  psychomotor, and cognitive performance can occur when 2\% or more of body
+  weight is lost due to water restriction, heat, and/or physical exertion.
+  Additional research is needed, especially studies designed to reduce, if not
+  remove, the limitations of studies conducted to date.%
+    }
+    \field{issn}{0731-5724}
+    \field{number}{5 Suppl}
+    \field{pages}{549S\bibrangedash 554S}
+    \field{title}{Dehydration and cognitive performance}
+    \field{volume}{26}
+    \field{journaltitle}{Journal of the American College of Nutrition}
+    \field{month}{10}
+    \field{year}{2007}
+  \endentry
+
+  \entry{masento_effects_2014}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MNA}{%
+         family={Masento},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Golightly},
+         familyi={G\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FDT}{%
+         family={Field},
+         familyi={F\bibinitperiod},
+         given={D.\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=BLT}{%
+         family={Butler},
+         familyi={B\bibinitperiod},
+         given={L.\bibnamedelima T.},
+         giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=vRCM}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Reekum},
+         familyi={R\bibinitperiod},
+         given={C.\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{Affect/*physiology, Cognition/*physiology, Dehydration/*psychology,
+  Drinking/*physiology, Humans, Water-Electrolyte Balance/physiology}
+    \strng{namehash}{MNAGMFDTBLTRCMv1}
+    \strng{fullhash}{MNAGMFDTBLTRCMv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Although it is well known that water is essential for human homeostasis and
+  survival, only recently have we begun to understand its role in the
+  maintenance of brain function. Herein, we integrate emerging evidence
+  regarding the effects of both dehydration and additional acute water
+  consumption on cognition and mood. Current findings in the field suggest that
+  particular cognitive abilities and mood states are positively influenced by
+  water consumption. The impact of dehydration on cognition and mood is
+  particularly relevant for those with poor fluid regulation, such as the
+  elderly and children. We critically review the most recent advances in both
+  behavioural and neuroimaging studies of dehydration and link the findings to
+  the known effects of water on hormonal, neurochemical and vascular functions
+  in an attempt to suggest plausible mechanisms of action. We identify some
+  methodological weaknesses, including inconsistent measurements in cognitive
+  assessment and the lack of objective hydration state measurements as well as
+  gaps in knowledge concerning mediating factors that may influence water
+  intervention effects. Finally, we discuss how future research can best
+  elucidate the role of water in the optimal maintenance of brain health and
+  function.%
+    }
+    \verb{doi}
+    \verb 10.1017/S0007114513004455
+    \endverb
+    \field{issn}{1475-2662 (Electronic) 0007-1145 (Linking)}
+    \field{pages}{1841\bibrangedash 52}
+    \field{title}{Effects of hydration status on cognitive performance and
+  mood}
+    \field{volume}{111}
+    \verb{file}
+    \verb Masento 2014 - BrJN - Hydration Cognition.pdf:C\:\\Users\\mattw\\AppD
+    \verb ata\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\s
+    \verb torage\\KRV95P5S\\Masento 2014 - BrJN - Hydration Cognition.pdf:appli
+    \verb cation/pdf
+    \endverb
+    \field{journaltitle}{The British Journal Of Nutrition}
+    \field{month}{05}
+    \field{year}{2014}
+  \endentry
+
+  \entry{lieberman_hydration_2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={HR},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Caffeine/pharmacology, Central Nervous System
+  Stimulants/pharmacology, Cognition Disorders/*etiology,
+  Cognition/*physiology, Dehydration/*complications, Dose-Response
+  Relationship, Drug, Evidence-Based Medicine, Humans, Memory, Short-Term/drug
+  effects/physiology, Psychomotor Performance/drug effects/physiology, Reaction
+  Time/drug effects/physiology, Research/*organization \& administration,
+  Severity of Illness Index}
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{0731-5724 (Print) 0731-5724 (Linking)}
+    \field{pages}{555S\bibrangedash 561S}
+    \field{title}{Hydration and cognition: a critical review and
+  recommendations for future research}
+    \field{volume}{26}
+    \verb{file}
+    \verb Lieberman 2007- JACN - Hydration and Cognition.pdf:C\:\\Users\\mattw\
+    \verb \AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zote
+    \verb ro\\storage\\6P76ZN3B\\Lieberman 2007- JACN - Hydration and Cognition
+    \verb .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Journal Of The American College Of Nutrition}
+    \field{month}{10}
+    \field{year}{2007}
+  \endentry
+
+  \entry{wilson_impaired_2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WM}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={MMG},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Morley},
+         familyi={M\bibinitperiod},
+         given={JE},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Aging, Cognition, Cognition Disorders, Dehydration, Disease
+  Progression, Humans, Memory Disorders, Neurons, Nitric Oxide Synthase}
+    \strng{namehash}{WMMJ1}
+    \strng{fullhash}{WMMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Dehydration is a reliable predictor of impaired cognitive status. Objective
+  data, using tests of cortical function, support the deterioration of mental
+  performance in mildly dehydrated younger adults. Dehydration frequently
+  results in delirium as a manifestation of cognitive dysfunction. Although,
+  the occurrence of delirium suggests transient acute global cerebral
+  dysfunction, cognitive impairment may not be completely reversible. Animal
+  studies have identified neuronal mitochondrial damage and glutamate
+  hypertransmission in dehydrated rats. Additional studies have identified an
+  increase in cerebral nicotinamide adenine dinucleotide phosphate-diaphorase
+  activity (nitric oxide synthase, NOS) with dehydration. Available evidence
+  also implicates NOS as a neurotransmitter in long-term potentiation,
+  rendering this a critical enzyme in facilitating learning and memory. With
+  ageing, a reduction of NOS activity has been identified in the cortex and
+  striatum of rats. The reduction of NOs synthase activity that occurs with
+  ageing may blunt the rise that occurs with dehydration, and possibly
+  interfere with memory processing and cognitive function. Dehydration has been
+  shown to be a reliable predictor of increasing frailty, deteriorating mental
+  performance and poor quality of life. Intervention models directed toward
+  improving outcomes in dehydration must incorporate strategies to enhance
+  prompt recognition of cognitive dysfunction.%
+    }
+    \verb{doi}
+    \verb 10.1038/sj.ejcn.1601898
+    \endverb
+    \field{issn}{0954-3007}
+    \field{pages}{S24\bibrangedash 29}
+    \field{title}{Impaired cognitive function and mental performance in mild
+  dehydration}
+    \field{volume}{57 Suppl 2}
+    \field{journaltitle}{European Journal of Clinical Nutrition}
+    \field{month}{12}
+    \field{year}{2003}
+  \endentry
+
+  \entry{gopinathan_role_1988}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GPM}{%
+         family={Gopinathan},
+         familyi={G\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pichan},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SVM}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={V.\bibnamedelima M.},
+         giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{*Mental Processes, Adult, Dehydration/etiology/*physiopathology, Hot
+  Temperature/*adverse effects, Humans, Intelligence, Male, Memory, Short-Term,
+  Stress, Physiological/*complications, Trail Making Test}
+    \strng{namehash}{GPMPGSVM1}
+    \strng{fullhash}{GPMPGSVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1080/00039896.1988.9934367
+    \endverb
+    \field{issn}{0003-9896 (Print) 0003-9896 (Linking)}
+    \field{pages}{15\bibrangedash 7}
+    \field{title}{Role of dehydration in heat stress-induced variations in
+  mental performance}
+    \field{volume}{43}
+    \verb{file}
+    \verb Gopinathan 1988 - DEH Heat Stress Variations Cognition - Arch Env Hea
+    \verb lth.pdf:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\Profil
+    \verb es\\khmzbkud.default\\zotero\\storage\\8MRE8HU9\\Gopinathan 1988 - DE
+    \verb H Heat Stress Variations Cognition - Arch Env Health.pdf:application/
+    \verb pdf
+    \endverb
+    \field{journaltitle}{Archives of Environmental Health}
+    \field{month}{02}
+    \field{year}{1988}
+  \endentry
+
+  \entry{sharma_influence_1986}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SVM}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={V.\bibnamedelima M.},
+         giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sridharan},
+         familyi={S\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pichan},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PMR}{%
+         family={Panwar},
+         familyi={P\bibinitperiod},
+         given={M.\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SVMSKPGPMR1}
+    \strng{fullhash}{SVMSKPGPMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The effect of primary dehydration of various levels (1, 2 and 3\%
+  body-weight deficits) on mental functions of different complexities were
+  studied in eight heat-acclimatized subjects drawn from tropical regions of
+  India. These subjects were also studied after a bout of exercise in heat
+  under two conditions viz., Hot Dry (45°C DB, 30\% rh), and Hot Humid (39DC
+  DB, 60\% rh) at 34°C WBGT. No significant change in routine mental work was
+  seen either under dehydration per se of any level or after subsequent
+  exercise under heat when compared with the normal state. On the other hand,
+  at 2 and 3\% levels of primary dehydration a further reduction was noted in
+  all the functions though it was not significant. Inter-variations in Hot
+  Humid and Hot Dry conditions were not significant except for more pronounced
+  reductions in the concentration component in Hot Humid conditions.%
+    }
+    \verb{doi}
+    \verb 10.1080/00140138608968315
+    \endverb
+    \field{issn}{0014-0139}
+    \field{number}{6}
+    \field{pages}{791\bibrangedash 799}
+    \field{title}{Influence of heat-stress induced dehydration on mental
+  functions}
+    \verb{url}
+    \verb http://dx.doi.org/10.1080/00140138608968315
+    \endverb
+    \field{volume}{29}
+    \verb{file}
+    \verb Sharma 1986 - Ergonomics - DEH mental functions.pdf:C\:\\Users\\mattw
+    \verb \\gdrive\\Papers\\Sharma 1986 - Ergonomics - DEH mental functions.pdf
+    \verb :application/pdf
+    \endverb
+    \field{journaltitle}{Ergonomics}
+    \field{month}{06}
+    \field{year}{1986}
+    \field{urlday}{22}
+    \field{urlmonth}{04}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{adam_hydration_2008}{article}{}
+    \name{author}{7}{}{%
+      {{hash=AG}{%
+         family={Adam},
+         familyi={A\bibinitperiod},
+         given={GE},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Carter},
+         familyi={C\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+      {{hash=CS}{%
+         family={Cheuvront},
+         familyi={C\bibinitperiod},
+         given={SN},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Merullo},
+         familyi={M\bibinitperiod},
+         given={DJ},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Castellani},
+         familyi={C\bibinitperiod},
+         given={JW},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={HR},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sawka},
+         familyi={S\bibinitperiod},
+         given={MN},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult, Arousal/physiology, Body Temperature/physiology,
+  Cognition/*physiology, Cold Temperature*, Dehydration/*physiopathology,
+  Exercise, Humans, Male, Military Personnel*, Questionnaires, Task Performance
+  and Analysis, Temperament*}
+    \strng{namehash}{AGCRCSMDCJLHSM1}
+    \strng{fullhash}{AGCRCSMDCJLHSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Body water deficits or hypohydration (HYP) may degrade cognitive
+  performance during heat exposure and perhaps temperate conditions. Cold
+  exposure often induces HYP, but the combined effects of cold and HYP on
+  cognitive performance are unknown. This study investigated whether HYP
+  degrades cognitive performance during cold exposure and if physical exercise
+  could mitigate any cold-induced performance decline. On four occasions, eight
+  volunteers completed one hour of militarily-relevant cognitive testing: 30
+  min of simulated sentry duty/marksmanship, 20 min of a visual vigilance task,
+  a self-report workload assessment, and a mood questionnaire. Testing was
+  conducted in a cold (2 degrees C) or temperate (20 degrees C) environment
+  before and after cycle ergometer (60 min at 60\% of VO(2peak)) exercise. Each
+  trial was preceded by 3 h of passive heat stress (45 degrees C) in the early
+  morning with (euhydration, EUH) or without (hypohydration, HYP; 3\% body
+  mass) fluid replacement followed by prolonged recovery. HYP did not alter any
+  cognitive, psychomotor, or self-report parameter in either environment before
+  or after exercise. Cold exposure increased (p{\textless}0.05) target
+  detection latency in the sentry duty task, adversely affected mood and
+  workload ratings, but had no impact on any other cognitive or psychomotor
+  measure. After completing the exercise bout, there were modest improvements
+  in friend-foe discrimination and total response latency in the sentry duty
+  task, but not on any other performance measures. Moderate HYP had no effect
+  on cognitive and psychomotor performance in either environment, cold exposure
+  produced equivocal effects, and aerobic exercise improved some aspects of
+  military task performance.;%
+    }
+    \verb{doi}
+    \verb 10.1016/j.physbeh.2007.11.028
+    \endverb
+    \field{issn}{0031-9384}
+    \field{pages}{748\bibrangedash 756}
+    \field{title}{Hydration effects on cognitive performance during military
+  tasks in temperate and cold environments}
+    \field{volume}{93}
+    \field{journaltitle}{Physiology \& Behavior}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ely_hypohydration_2013}{article}{}
+    \name{author}{5}{}{%
+      {{hash=EB}{%
+         family={Ely},
+         familyi={E\bibinitperiod},
+         given={BR},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sollanek},
+         familyi={S\bibinitperiod},
+         given={KJ},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cheuvront},
+         familyi={C\bibinitperiod},
+         given={SN},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={HR},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kenefick},
+         familyi={K\bibinitperiod},
+         given={RW},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult, Affect*, Analysis of Variance, Body Temperature Regulation,
+  Cognition*, Cold-Shock Response, Dehydration/*physiopathology,
+  Dehydration/*psychology, Heat-Shock Response, Heat Stress Disorders/etiology,
+  Heat Stress Disorders/*physiopathology, Heat Stress Disorders/*psychology,
+  Humans, Hyperthermia, Induced*, Hypothermia, Induced*, Male, Massachusetts,
+  Military Medicine, Neuropsychological Tests, Physical Examination, Postural
+  Balance*, Psychomotor Performance, Reaction Time, Thermosensing, Time
+  Factors, Water-Electrolyte Balance, Young Adult}
+    \strng{namehash}{EBSKCSLHKR1}
+    \strng{fullhash}{EBSKCSLHKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Equivocal findings have been reported in the few studies that examined the
+  impact of ambient temperature (T a) and hypohydration on cognition and
+  dynamic balance. The purpose of this study was to determine the impact of
+  acute exposure to a range of ambient temperatures (T(a) 10-40 °C) in
+  euhydration (EUH) and hypohydration (HYP) states on cognition, mood and
+  dynamic balance. Thirty-two men (age 22 ± 4 years, height 1.80 ± 0.05 m,
+  body mass 85.4 ± 10.8 kg) were grouped into four matched cohorts (n = 8),
+  and tested in one of the four T(a) (10, 20, 30, 40 °C) when EUH and HYP (-4
+  \% body mass via exercise-heat exposure). Cognition was assessed using
+  psychomotor vigilance, 4-choice reaction time, matching to sample, and
+  grammatical reasoning. Mood was evaluated by profile of mood states and
+  dynamic postural balance was tested using a Biodex Balance System. Thermal
+  sensation (TS), core (T core) and skin temperature (T(sk)) were obtained
+  throughout testing. Volunteers lost -4.1 ± 0.4 \% body mass during HYP. T sk
+  and TS increased with increasing T(a), with no effect of hydration. Cognitive
+  performance was not altered by HYP or thermal stress. Total mood disturbance
+  (TMD), fatigue, confusion, anger, and depression increased during HYP at all
+  T(a). Dynamic balance was unaffected by HYP, but 10 °C exposure impaired
+  balance compared to all other T(a). Despite an increase in TMD during HYP,
+  cognitive function was maintained in all testing environments, demonstrating
+  cognitive resiliency in response to body fluid deficits. Dynamic postural
+  stability at 10 °C appeared to be hampered by low-grade shivering, but was
+  otherwise maintained during HYP and thermal stress.;%
+    }
+    \verb{doi}
+    \verb 10.1007/s00421-012-2506-6
+    \endverb
+    \field{issn}{1439-6327}
+    \field{pages}{1027\bibrangedash 1034}
+    \field{title}{Hypohydration and acute thermal stress affect mood state but
+  not cognition or dynamic postural balance}
+    \field{volume}{113}
+    \field{journaltitle}{European Journal Of Applied Physiology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{lieberman_methods_2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LHR}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={Harris\bibnamedelima R.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Cognition, Cognition Disorders, Data Collection, Dehydration, Humans,
+  Psychomotor Performance, Research Design}
+    \strng{namehash}{LHR1}
+    \strng{fullhash}{LHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Studying the effects of dehydration on cognitive function presents a
+  variety of unique and difficult challenges to investigators. These
+  challenges, which are addressed in this article, can be divided into three
+  general categories: 1) choosing an appropriate method of generating a
+  consistent level of dehydration; 2) determining and effectively employing
+  appropriate and sensitive measures of cognitive state; and 3) adequately
+  controlling the many confounding factors that interfere with assessment of
+  cognitive function. The design and conduct of studies on the effects of
+  dehydration on cognitive function should carefully consider various
+  methodological issues, and investigators should carefully weigh the benefits
+  and disadvantages of particular methods and procedures.%
+    }
+    \verb{doi}
+    \verb 10.1111/j.1753-4887.2012.00524.x
+    \endverb
+    \field{issn}{1753-4887}
+    \field{pages}{S143\bibrangedash 146}
+    \field{title}{Methods for assessing the effects of dehydration on cognitive
+  function}
+    \field{volume}{70 Suppl 2}
+    \field{journaltitle}{Nutrition Reviews}
+    \field{month}{11}
+    \field{year}{2012}
+  \endentry
+
+  \entry{king_brief_1878}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KJ}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={JH},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KJ1}
+    \strng{fullhash}{KJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{404\bibrangedash 468}
+    \field{title}{Brief account of the sufferings from a detachment of {United}
+  {States} {Cavalry}, from deprivation of water, during a period of
+  eighty‐six hours, while scouting on the “{Llano} {Estacado}” or
+  “{Staked} {Plains}”, {Texas}}
+    \field{volume}{75}
+    \field{journaltitle}{American Journal of Medical Science}
+    \field{year}{1878}
+  \endentry
+
+  \entry{adolf_physiology_1947}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AE}{%
+         family={Adolf},
+         familyi={A\bibinitperiod},
+         given={EF},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Interscience}%
+    }
+    \strng{namehash}{AE1}
+    \strng{fullhash}{AE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Physiology of {Man} in the {Desert}}
+    \field{year}{1947}
+  \endentry
+
+  \entry{lieberman_severe_2005}{article}{}
+    \name{author}{6}{}{%
+      {{hash=LH}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={HR},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bathalon},
+         familyi={B\bibinitperiod},
+         given={GP},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Falco},
+         familyi={F\bibinitperiod},
+         given={CM},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kramer},
+         familyi={K\bibinitperiod},
+         given={MF},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Morgan},
+         familyi={M\bibinitperiod},
+         given={CA},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=NP}{%
+         family={Niro},
+         familyi={N\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adult, Analysis of Variance, Arousal, Attention, Choice Behavior,
+  Cognition Disorders, Computer Simulation, Dehydration, Exercise, Hot
+  Temperature, Humans, Hydrocortisone, Male, Malnutrition, Military Personnel,
+  Mood Disorders, Neuropsychological Tests, Psychomotor Performance, Reaction
+  Time, Saliva, Sleep Deprivation, Surveys and Questionnaires, Time Factors,
+  Work Schedule Tolerance}
+    \strng{namehash}{LHBGFCKMMCNP1}
+    \strng{fullhash}{LHBGFCKMMCNP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    BACKGROUND: Military exercises generate high levels of stress to simulate
+  combat, providing a unique opportunity to examine cognitive and physiologic
+  responses of normal humans to acute stress. METHODS: Cognitive and
+  physiologic markers of stress were evaluated before, during, and after an
+  intense training exercise conducted for 53 hours in the heat. Cognitive
+  performance, mood, physical activity, sleep, body composition, hydration, and
+  saliva cortisol, testosterone, and melatonin were assessed. Volunteers were
+  31 male U.S. Army officers from an elite unit, aged 31.6 +/- .4 years.
+  RESULTS: Wrist activity monitors documented that soldiers slept only 3.0 +/-
+  .3 hours during the exercise and were active throughout. Volunteers lost 4.1
+  +/- .2 kg (p {\textless} .001) of weight, predominately water (3.1 +/- .3 L)
+  (p {\textless} .001). Substantial degradation in cognitive function, assessed
+  with computerized tests, occurred. Vigilance, reaction time, attention,
+  memory, and reasoning were impaired (p {\textless} .001). Mood, including
+  vigor (p {\textless} .001), fatigue (p {\textless} .001), confusion (p
+  {\textless} .001), depression (p {\textless} .001), and tension (p
+  {\textless} .002), assessed by questionnaire, deteriorated. The highest
+  cortisol and testosterone levels were observed before the exercise.
+  CONCLUSIONS: This study quantifies the overwhelmingly adverse impact of
+  multiple stressors on cognitive performance, mood, and physiologic
+  parameters, during a continuous but brief military exercise conducted by
+  highly motivated, well-trained officers.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.biopsych.2004.11.014
+    \endverb
+    \field{issn}{0006-3223}
+    \field{number}{4}
+    \field{pages}{422\bibrangedash 429}
+    \field{title}{Severe decrements in cognition function and mood induced by
+  sleep loss, heat, dehydration, and undernutrition during simulated combat}
+    \field{volume}{57}
+    \verb{file}
+    \verb Lieberman-2005-Severe decrements in cognition.pdf:C\:\\Users\\mattw\\
+    \verb AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zoter
+    \verb o\\storage\\9F6G3RJV\\Lieberman-2005-Severe decrements in cognition.p
+    \verb df:application/pdf
+    \endverb
+    \field{journaltitle}{Biological Psychiatry}
+    \field{month}{02}
+    \field{year}{2005}
+  \endentry
+
+  \entry{krause_sleep-deprived_2017}{article}{}
+    \name{author}{7}{}{%
+      {{hash=KAJ}{%
+         family={Krause},
+         familyi={K\bibinitperiod},
+         given={Adam\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SEB}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Eti\bibnamedelima Ben},
+         giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Mander},
+         familyi={M\bibinitperiod},
+         given={Bryce\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GSM}{%
+         family={Greer},
+         familyi={G\bibinitperiod},
+         given={Stephanie\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJM}{%
+         family={Saletin},
+         familyi={S\bibinitperiod},
+         given={Jared\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GPAN}{%
+         family={Goldstein-Piekarski},
+         familyi={G\bibinitperiod-P\bibinitperiod},
+         given={Andrea\bibnamedelima N.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=WMP}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Matthew\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Attention, Learning and memory, Reward, Sleep Deprivation, Working
+  memory}
+    \strng{namehash}{KAJSEBMBAGSMSJMGPANWMP1}
+    \strng{fullhash}{KAJSEBMBAGSMSJMGPANWMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    How does a lack of sleep affect our brains? In contrast to the benefits of
+  sleep, frameworks exploring the impact of sleep loss are relatively lacking.
+  Importantly, the effects of sleep deprivation (SD) do not simply reflect the
+  absence of sleep and the benefits attributed to it; rather, they reflect the
+  consequences of several additional factors, including extended wakefulness.
+  With a focus on neuroimaging studies, we review the consequences of SD on
+  attention and working memory, positive and negative emotion, and hippocampal
+  learning. We explore how this evidence informs our mechanistic understanding
+  of the known changes in cognition and emotion associated with SD, and the
+  insights it provides regarding clinical conditions associated with sleep
+  disruption.%
+    }
+    \verb{doi}
+    \verb 10.1038/nrn.2017.55
+    \endverb
+    \field{issn}{1471-003X}
+    \field{number}{7}
+    \field{pages}{404\bibrangedash 418}
+    \field{title}{The sleep-deprived human brain}
+    \verb{url}
+    \verb http://www.nature.com/nrn/journal/v18/n7/full/nrn.2017.55.html?foxtro
+    \verb tcallback=true
+    \endverb
+    \field{volume}{18}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\
+    \verb Profiles\\khmzbkud.default\\zotero\\storage\\TTVMBMSS\\Krause et al.
+    \verb - 2017 - The sleep-deprived human brain.pdf:application/pdf;Snapshot:
+    \verb C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmz
+    \verb bkud.default\\zotero\\storage\\9NW6IDNS\\nrn.2017.55.html:text/html
+    \endverb
+    \field{journaltitle}{Nature Reviews Neuroscience}
+    \field{month}{07}
+    \field{year}{2017}
+    \field{urlday}{21}
+    \field{urlmonth}{08}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{strachan_acute_2001}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SMW}{%
+         family={Strachan},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=DIJ}{%
+         family={Deary},
+         familyi={D\bibinitperiod},
+         given={I.\bibnamedelima J.},
+         giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=EFM}{%
+         family={Ewing},
+         familyi={E\bibinitperiod},
+         given={F.\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FSS}{%
+         family={Ferguson},
+         familyi={F\bibinitperiod},
+         given={S.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=YMJ}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FBM}{%
+         family={Frier},
+         familyi={F\bibinitperiod},
+         given={B.\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Acute Disease, Adult, Blood Glucose, Central nervous system,
+  Cognition, Diabetes Mellitus, Glucose Clamp Technique, Humans, Hypoglycemia,
+  Intelligence Tests, Male, Median Nerve, Neural Conduction, Neuropsychological
+  Tests, Peripheral Nervous System, Peroneal Nerve, Psychomotor Performance,
+  Psychophysics, Reaction Time, Visual Perception}
+    \strng{namehash}{SMWDIJEFMFSSYMJFBM1}
+    \strng{fullhash}{SMWDIJEFMFSSYMJFBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Acute hypoglycemia impairs functions of the central nervous system, but few
+  controlled studies have assessed the impact of hypoglycemia on the function
+  of the peripheral nervous system. Sixteen non-diabetic humans underwent two
+  separate hyperinsulinemic glucose clamp procedures on different study days,
+  in a counter-balanced fashion. On one occasion, euglycemia was maintained
+  (blood glucose, 5.0 mmol l(-1)), and on the other occasion, hypoglycemia
+  (blood glucose, 2.6 mmol l(-1)) was induced. During each condition, subjects
+  performed a combined psychometric, cognitive-experimental and psychophysical
+  test battery, and measures were made (in the dominant median and common
+  peroneal nerves) of the motor nerve conduction velocities and the amplitudes
+  of the motor action potentials. Hypoglycemia caused impaired performance of
+  general cognitive and information processing tasks (P{\textless}.05), but
+  nerve conduction velocities and the amplitudes of motor action potentials
+  were unaffected. Conduction velocities of the common peroneal nerve decreased
+  from baseline within each experimental condition, perhaps due to
+  hyperinsulinemia. Overall, these results demonstrate that multiple levels of
+  information processing in the brain may alter while peripheral nerve function
+  remains intact, and imply that peripheral neurons do not have the same
+  obligate requirement for glucose as a metabolic fuel as neurons of the
+  central nervous system.%
+    }
+    \field{issn}{0031-9384}
+    \field{number}{1-2}
+    \field{pages}{83\bibrangedash 92}
+    \field{title}{Acute hypoglycemia impairs the functioning of the central but
+  not peripheral nervous system}
+    \field{volume}{72}
+    \field{journaltitle}{Physiology \& Behavior}
+    \field{month}{01}
+    \field{year}{2001}
+  \endentry
+
+  \entry{opstad_performance_1978}{article}{}
+    \name{author}{4}{}{%
+      {{hash=OPK}{%
+         family={Opstad},
+         familyi={O\bibinitperiod},
+         given={P.\bibnamedelima K.},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=ER}{%
+         family={Ekanger},
+         familyi={E\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nummestad},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Raabe},
+         familyi={R\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Achievement, Adult, Affect, Attention, Humans, Male, Mental
+  Disorders, Physical Exertion, Psychological Tests, Reaction Time, Retention
+  (Psychology), Sleep Deprivation}
+    \strng{namehash}{OPKERNMRN1}
+    \strng{fullhash}{OPKERNMRN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    There were 44 young men who participated in strenuous combat courses of 4 d
+  (course I) or 5 d (course II), almost without sleep. They were tested and
+  examined clinically each morning. Groups 1 and 2 had no organized sleep,
+  whereas groups 3 and 4 got 3 and 6 h, respectively, in the middle of each
+  course. Substantial impairment was observed in all tests, as well as clinical
+  symptoms toward the end of the courses for groups 1 and 2. In the vigilance
+  test, the reaction time task, the code test, and the profile of mood-state,
+  significant impairment was observed even after 24 h. Complaints of symptoms
+  came first. Disturbance of senses and behaviour appeared later. Group 4 had
+  significantly better results than groups 1 and 2 in clinical symptoms and all
+  tests, except the positive score in mood-state. Group 3 occupied an
+  intermediate position. Corresponding results were obtained in the two
+  separate courses. In the morning following the course, recovery after 4 h of
+  sleep was less extensive for courses II than course I participants.%
+    }
+    \field{issn}{0095-6562}
+    \field{number}{9}
+    \field{pages}{1065\bibrangedash 1073}
+    \field{title}{Performance, mood, and clinical symptoms in men exposed to
+  prolonged, severe physical work and sleep deprivation}
+    \field{volume}{49}
+    \field{journaltitle}{Aviation, Space, and Environmental Medicine}
+    \field{month}{09}
+    \field{year}{1978}
+  \endentry
+
+  \entry{sharma_differential_1983}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SVM}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={V.\bibnamedelima M.},
+         giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pichan},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PMR}{%
+         family={Panwar},
+         familyi={P\bibinitperiod},
+         given={M.\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult, Cognition/physiology, Environmental Exposure, Hot
+  Temperature/*adverse effects, Humans, Humidity/*adverse effects, Male, Mental
+  Processes/*physiology}
+    \strng{namehash}{SVMPGPMR1}
+    \strng{fullhash}{SVMPGPMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Twenty five subjects acclimatised to heat artificially were exposed to
+  "basic effective temperatures" (BET) of 25.0 degrees, 29.6 degrees, 32.2
+  degrees, 33.3 degrees and 35.0 degrees C BET under conditions of both humid
+  and dry heat. The object of the investigation was to ascertain the nature of
+  effects of varying degrees of heat stress on mental alertness, associative
+  learning, reasoning ability and dual-performance efficiency. A further aim
+  was to determine the temperature levels at which impairment of psychological
+  functions was severe enough to be of practical concern. The duration of each
+  exposure was four hours, during which subjects performed physical exercise
+  followed by rest every 30 min. It was found that all the psychological
+  functions tested were adversely affected under extreme heat, and that a
+  significant drop in various psychological functions was seen at effective
+  temperatures of 32.2 degrees C and 33.3 degrees C in hot-humid and hot-dry
+  conditions respectively. It is concluded that at the same effective
+  temperatures the magnitude of the overall effect on psychological functions
+  under humid conditions is relatively greater than that under dry conditions.%
+    }
+    \field{issn}{0340-0131 (Print) 0340-0131 (Linking)}
+    \field{pages}{315\bibrangedash 27}
+    \field{title}{Differential effects of hot-humid and hot-dry environments on
+  mental functions}
+    \field{volume}{52}
+    \verb{file}
+    \verb Sharma 1983 - Int Arch Occup Environ Health - Heat Stress Mental Func
+    \verb tions.pdf:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\Prof
+    \verb iles\\khmzbkud.default\\zotero\\storage\\SBGR4SJD\\Sharma 1983 - Int
+    \verb Arch Occup Environ Health - Heat Stress Mental Functions.pdf:applicat
+    \verb ion/pdf
+    \endverb
+    \field{journaltitle}{Int Arch Occup Environ Health}
+    \field{year}{1983}
+  \endentry
+
+  \entry{cheuvront_dehydration:_2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CS}{%
+         family={Cheuvront},
+         familyi={C\bibinitperiod},
+         given={SN},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kenefick},
+         familyi={K\bibinitperiod},
+         given={RW},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CSKR1}
+    \strng{fullhash}{CSKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This article provides a comprehensive review of dehydration assessment and
+  presents a unique evaluation of the dehydration and performance literature.
+  The importance of osmolality and volume are emphasized when discussing the
+  physiology, assessment, and performance effects of dehydration. The
+  underappreciated physiologic distinction between a loss of hypo-osmotic body
+  water (intracellular dehydration) and an iso-osmotic loss of body water
+  (extracellular dehydration) is presented and argued as the single most
+  essential aspect of dehydration assessment. The importance of diagnostic and
+  biological variation analyses to dehydration assessment methods is reviewed
+  and their use in gauging the true potential of any dehydration assessment
+  method highlighted. The necessity for establishing proper baselines is
+  discussed, as is the magnitude of dehydration required to elicit reliable and
+  detectable osmotic or volume-mediated compensatory physiologic responses. The
+  discussion of physiologic responses further helps inform and explain our
+  analysis of the literature suggesting a {\textgreater}/= 2\% dehydration
+  threshold for impaired endurance exercise performance mediated by volume
+  loss. In contrast, no clear threshold or plausible mechanism(s) support the
+  marginal, but potentially important, impairment in strength, and power
+  observed with dehydration. Similarly, the potential for dehydration to impair
+  cognition appears small and related primarily to distraction or discomfort.
+  The impact of dehydration on any particular sport skill or task is therefore
+  likely dependent upon the makeup of the task itself (e.g., endurance,
+  strength, cognitive, and motor skill).%
+    }
+    \verb{doi}
+    \verb 10.1002/cphy.c130017
+    \endverb
+    \field{issn}{2040-4603 (Electronic) 2040-4603 (Linking)}
+    \field{pages}{257\bibrangedash 85}
+    \field{title}{Dehydration: physiology, assessment, and performance effects}
+    \field{volume}{4}
+    \verb{file}
+    \verb Cheuvront-2014-Dehydration_ Physiology, assess.pdf:C\:\\Users\\mattw\
+    \verb \AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zote
+    \verb ro\\storage\\EE7N2AQ7\\Cheuvront-2014-Dehydration_ Physiology, assess
+    \verb .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Compr Physiol}
+    \field{month}{01}
+    \field{year}{2014}
+  \endentry
+
+  \entry{mcmorris_heat_2006}{article}{}
+    \name{author}{8}{}{%
+      {{hash=MT}{%
+         family={McMorris},
+         familyi={M\bibinitperiod},
+         given={Terry},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Swain},
+         familyi={S\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Corbett},
+         familyi={C\bibinitperiod},
+         given={Jo},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Delves},
+         familyi={D\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Sale},
+         familyi={S\bibinitperiod},
+         given={Craig},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HRC}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={Roger\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Potter},
+         familyi={P\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Hormones, Neurotransmitters, Reaction Time, Working memory}
+    \strng{namehash}{MTSJSMCJDSSCHRCPJ1}
+    \strng{fullhash}{MTSJSMCJDSSCHRCPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The primary aims of this paper were to examine the effect of heat stress on
+  working memory, choice reaction time and mood state, and to investigate the
+  relationship between heat induced changes in plasma concentrations of
+  selected neurotransmitters and hormones, and cognition. Heat stress resulted
+  in a deterioration of performance on a central executive task (random
+  movement generation) but not on verbal and spatial recall, and choice
+  reaction time tasks. Perceptions of vigour decreased and fatigue increased
+  following exposure to heat stress. Plasma concentrations of cortisol and
+  5-hydroxytryptamine significantly increased following exposure to heat.
+  Regression analyses showed that percent body mass loss and change from
+  baseline (Δ) concentrations of cortisol, post-exposure to heat, were
+  significant predictors of Δ random movement generation and Δ fatigue. A
+  secondary purpose was to examine the effect of recovery on cognition and
+  mood. Following recovery, the performance of the central executive task was
+  poorer than pre-treatment. Mood states, catecholamines and
+  5-hydroxytryptamine concentrations returned to pre-treatment values, but
+  cortisol fell to a level significantly lower. Regression correlations showed
+  that Δ adrenaline and Δ scores, post-recovery, on the central executive
+  task were significantly correlated. Δ noradrenaline correlated significantly
+  with Δ fatigue. It was concluded that heat stress results in deterioration
+  in the performance of central executive tasks and perceptions of mood state,
+  and that this can be predicted by changes in body mass loss and plasma
+  concentrations of the hormones cortisol and adrenaline.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.ijpsycho.2005.10.002
+    \endverb
+    \field{issn}{0167-8760}
+    \field{number}{2}
+    \field{pages}{204\bibrangedash 215}
+    \field{title}{Heat stress, plasma concentrations of adrenaline,
+  noradrenaline, 5-hydroxytryptamine and cortisol, mood state and cognitive
+  performance}
+    \field{volume}{61}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:C\:\\Users\\mattw\\AppData\\Roaming\\Mozi
+    \verb lla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\storage\\NZN6C9QD\\
+    \verb McMorris et al. - 2006 - Heat stress, plasma concentrations of adrena
+    \verb line, .pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\mattw\\
+    \verb AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zoter
+    \verb o\\storage\\QJNGNV3F\\S0167876005002588.html:text/html
+    \endverb
+    \field{journaltitle}{International Journal of Psychophysiology}
+    \field{month}{08}
+    \field{year}{2006}
+    \field{urlday}{07}
+    \field{urlmonth}{06}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{hancock_effects_2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HPA}{%
+         family={Hancock},
+         familyi={H\bibinitperiod},
+         given={P.\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VI}{%
+         family={Vasmatzidis},
+         familyi={V\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{*Cognition, Heat Stress Disorders/*psychology, Humans, Task
+  Performance and Analysis}
+    \strng{namehash}{HPAVI1}
+    \strng{fullhash}{HPAVI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This paper discusses the current state of knowledge on the effects of heat
+  stress on cognitive performance. Although substantial research has been
+  performed, it has proven difficult to describe the literature findings in a
+  systematic manner. This is due to the large number of factors that come into
+  play, such as task type, exposure duration, skill and acclimatization level
+  of the individual and due to the absence of a concise theory on which
+  experimental work can be based. However, two trends have been identified.
+  First, heat stress affects cognitive performance differentially, depending on
+  the type of cognitive task. Secondly, it appears that a relationship can be
+  established between the effects of heat stress and deep body temperature. A
+  number of exposure limits have been proposed during the last decades. These
+  limits are summarized in this paper, with a special emphasis on the most
+  recent one derived by Hancock and Vasmatzidis. This limit, which employs an
+  attentional resource approach, defines exposure duration thresholds as
+  parallel lines. Although this approach appears to be the most promising thus
+  far, it is concluded that much remains to be understood before a limit
+  becomes universally acceptable.%
+    }
+    \verb{doi}
+    \verb 10.1080/0265673021000054630
+    \endverb
+    \field{issn}{0265-6736 (Print) 0265-6736 (Linking)}
+    \field{pages}{355\bibrangedash 72}
+    \field{title}{Effects of heat stress on cognitive performance: the current
+  state of knowledge}
+    \field{volume}{19}
+    \field{journaltitle}{Int J Hyperthermia}
+    \field{month}{06}
+    \field{year}{2003}
+  \endentry
+
+  \entry{benton_small_2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BD}{%
+         family={Benton},
+         familyi={B\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+      {{hash=YH}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={HA},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{children, cognition, dehydration, Hydration, mild dehydration, mood.}
+    \strng{namehash}{BDYH1}
+    \strng{fullhash}{BDYH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Although it has been suggested that many in the general population are
+  dehydrated to the extent that mood and cognition are disrupted, there has
+  been little research investigating mild levels of dehydration. When
+  dehydration reduces body mass by more than 2\%, it has been consistently
+  reported that mood is influenced, fatigue is greater, and alertness is lower.
+  In contrast, the effects on cognition have been less consistent. Only a few
+  studies have looked at females and these studies made little attempt to
+  consider hormones that influence kidney functioning. In particular, there has
+  been virtually no attempt to look at changes in hydration status in the range
+  that occurs in individuals with a sedentary lifestyle in a temperate climate.
+  There is a consequent need to study individuals who have lost up to 1\% of
+  body mass due to dehydration. While 4 intervention trials have found that the
+  cognition of children improved in response to water consumption, the effects
+  of water consumption on cognition in older adults, another high-risk group,
+  have been largely ignored.%
+    }
+    \verb{doi}
+    \verb 10.1093/nutrit/nuv045
+    \endverb
+    \field{issn}{1753-4887 (Electronic) 0029-6643 (Linking)}
+    \field{pages}{83\bibrangedash 96}
+    \field{title}{Do small differences in hydration status affect mood and
+  mental performance?}
+    \field{volume}{73 Suppl 2}
+    \field{journaltitle}{Nutr Rev}
+    \field{month}{09}
+    \field{year}{2015}
+  \endentry
+
+  \entry{cheuvront_physiologic_2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CS}{%
+         family={Cheuvront},
+         familyi={C\bibinitperiod},
+         given={SN},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kenefick},
+         familyi={K\bibinitperiod},
+         given={RW},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Charkoudian},
+         familyi={C\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=SM}{%
+         family={Sawka},
+         familyi={S\bibinitperiod},
+         given={MN},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {Eng}%
+    }
+    \strng{namehash}{CSKRCNSM1}
+    \strng{fullhash}{CSKRCNSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Dehydration (body water deficit) is a physiologic state that can have
+  profound implications for human health and performance. Unfortunately,
+  dehydration can be difficult to assess, and there is no single, universal
+  gold standard for decision making. In this article, we review the physiologic
+  basis for understanding quantitative dehydration assessment. We highlight how
+  phenomenologic interpretations of dehydration depend critically on the type
+  (dehydration compared with volume depletion) and magnitude (moderate compared
+  with severe) of dehydration, which in turn influence the osmotic (plasma
+  osmolality) and blood volume-dependent compensatory thresholds for
+  antidiuretic and thirst responses. In particular, we review new findings
+  regarding the biological variation in osmotic responses to dehydration and
+  discuss how this variation can help provide a quantitative and clinically
+  relevant link between the physiology and phenomenology of dehydration.
+  Practical measures with empirical thresholds are provided as a starting point
+  for improving the practice of dehydration assessment.%
+    }
+    \verb{doi}
+    \verb 10.3945/ajcn.112.044172
+    \endverb
+    \field{issn}{1938-3207 (Electronic) 0002-9165 (Linking)}
+    \field{title}{Physiologic basis for understanding quantitative dehydration
+  assessment}
+    \field{journaltitle}{The American Journal Of Clinical Nutrition}
+    \field{month}{01}
+    \field{year}{2013}
+  \endentry
+
+  \entry{chang_effects_2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CYK}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={Y.\bibnamedelima K.},
+         giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LJD}{%
+         family={Labban},
+         familyi={L\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GJI}{%
+         family={Gapin},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=EJL}{%
+         family={Etnier},
+         familyi={E\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Cognition/*physiology, Exercise/physiology/*psychology, Humans,
+  Neuropsychological Tests}
+    \strng{namehash}{CYKLJDGJIEJL1}
+    \strng{fullhash}{CYKLJDGJIEJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.brainres.2012.02.068
+    \endverb
+    \field{issn}{1872-6240 (Electronic) 0006-8993 (Linking)}
+    \field{pages}{87\bibrangedash 101}
+    \field{title}{The effects of acute exercise on cognitive performance: a
+  meta-analysis}
+    \field{volume}{1453}
+    \field{journaltitle}{Brain Research}
+    \field{month}{05}
+    \field{year}{2012}
+  \endentry
+
+  \entry{morris_combining_2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MSB}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={Scott\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DRP}{%
+         family={DeShon},
+         familyi={D\bibinitperiod},
+         given={Richard\bibnamedelima P.},
+         giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Humans, Meta-Analysis as Topic, Models, Psychological}
+    \strng{namehash}{MSBDRP1}
+    \strng{fullhash}{MSBDRP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When a meta-analysis on results from experimental studies is conducted,
+  differences in the study design must be taken into consideration. A method
+  for combining results across independent-groups and repeated measures designs
+  is described, and the conditions under which such an analysis is appropriate
+  are discussed. Combining results across designs requires that (a) all effect
+  sizes be transformed into a common metric, (b) effect sizes from each design
+  estimate the same treatment effect, and (c) meta-analysis procedures use
+  design-specific estimates of sampling variance to reflect the precision of
+  the effect size estimates.%
+    }
+    \field{issn}{1082-989X}
+    \field{number}{1}
+    \field{pages}{105\bibrangedash 125}
+    \field{title}{Combining effect size estimates in meta-analysis with
+  repeated measures and independent-groups designs}
+    \field{volume}{7}
+    \field{journaltitle}{Psychological Methods}
+    \field{month}{03}
+    \field{year}{2002}
+  \endentry
+
+  \entry{wittbrodt_fluid_2015}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WMT}{%
+         family={Wittbrodt},
+         familyi={W\bibinitperiod},
+         given={M.\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MSM}{%
+         family={Millard-Stafford},
+         familyi={M\bibinitperiod-S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Sherman},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CCC}{%
+         family={Cheatham},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \keyw{aerobic performance, Brain, cognitive performance, dehydration,
+  exercise-induced dehydration, football players, heat-stress, Heat stress,
+  hydration status, ingestion, Mental performance, mood, voluntary dehydration,
+  Water}
+    \strng{namehash}{WMTMSMSRACCC1}
+    \strng{fullhash}{WMTMSMSRACCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Purpose: The impact of mild hypohydration on physiological responses and
+  cognitive performance following exercise-heat stress (EHS) were examined
+  compared with conditions when fluids were ingested ad libitum (AL) or
+  replaced to match sweat losses (FR). Methods: Twelve unacclimatized,
+  recreationally-active men (22.2 +/- 2.4 y) completed 50 min cycling
+  (60\%VO2peak) in the heat (32 degrees C; 65\% RH) under three conditions: no
+  fluid (NF), AL, and FR. Before and after EHS, a cognitive battery was
+  completed: Trail making, perceptual vigilance, pattern comparison,
+  match-to-sample, and letter-digit recognition tests. Results: Hypohydration
+  during NF was greater compared with AL and FR (NF: -1.5 +/- 0.6; AL: -0.3 +/-
+  0.8; FR: -0.1 +/- 0.3\% body mass loss) resulting in higher core temperature
+  (by 0.4, 0.5 degrees C), heart rate (by 13 and 15 b.min(-1)), and
+  physiological strain (by 1.3, 1.5) at the end of EHS compared with AL and FR,
+  respectively. Cognitive performance (response time and accuracy) was not
+  altered by fluid condition; however, mean response time improved (p
+  {\textless} .05) for letter-digit recognition (by 56.7 +/- 85.8 ms or 3.8\%;
+  p {\textless} .05) and pattern comparison (by 80.6 +/- 57.4 ms or 7.1\%; p
+  {\textless} .001), but mean accuracy decreased in trail making (by 1.2 +/-
+  1.4\%; p = .01) after EHS (across all conditions). Conclusions: For
+  recreational athletes, fluid intake effectively mitigated physiological
+  strain induced by mild hypohydration; however, mild hypohydration resulting
+  from EHS elicited no adverse changes in cognitive performance.%
+    }
+    \verb{doi}
+    \verb 10.1123/ijsnem.2014-0173
+    \endverb
+    \field{issn}{1526-484x}
+    \field{pages}{439\bibrangedash 447}
+    \field{title}{Fluid {Replacement} {Attenuates} {Physiological} {Strain}
+  {Resulting} {From} {Mild} {Hypohydration} {Without} {Impacting} {Cognitive}
+  {Performance}}
+    \field{volume}{25}
+    \field{journaltitle}{International Journal Of Sport Nutrition And Exercise
+  Metabolism}
+    \field{month}{10}
+    \field{year}{2015}
+  \endentry
+
+  \entry{watson_mild_2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=WP}{%
+         family={Watson},
+         familyi={W\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Whale},
+         familyi={W\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MSA}{%
+         family={Mears},
+         familyi={M\bibinitperiod},
+         given={S.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RLA}{%
+         family={Reyner},
+         familyi={R\bibinitperiod},
+         given={L.\bibnamedelima A.},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MRJ}{%
+         family={Maughan},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Cognitive function, dehydration, Fluid balance, Road traffic
+  accident}
+    \strng{namehash}{WPWAMSARLAMRJ1}
+    \strng{fullhash}{WPWAMSARLAMRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The aim of the present study was to examine the effect of mild
+  hypohydration on performance during a prolonged, monotonous driving task.
+  METHODS: Eleven healthy males (age 22+/-4y) were instructed to consume a
+  volume of fluid in line with published guidelines (HYD trial) or 25\% of this
+  intake (FR trial) in a crossover manner. Participants came to the laboratory
+  the following morning after an overnight fast. One hour following a standard
+  breakfast, a 120min driving simulation task began. Driver errors, including
+  instances of lane drifting or late breaking, EEG and heart rate were recorded
+  throughout the driving task RESULTS: Pre-trial body mass (P=0.692), urine
+  osmolality (P=0.838) and serum osmolality (P=0.574) were the same on both
+  trials. FR resulted in a 1.1+/-0.7\% reduction in body mass, compared to
+  -0.1+/-0.6\% in the HYD trial (P=0.002). Urine and serum osmolality were both
+  increased following FR (P{\textless}0.05). There was a progressive increase
+  in the total number of driver errors observed during both the HYD and FR
+  trials, but significantly more incidents were recorded throughout the FR
+  trial (HYD 47+/-44, FR 101+/-84; ES=0.81; P=0.006) CONCLUSIONS: The results
+  of the present study suggest that mild hypohydration, produced a significant
+  increase in minor driving errors during a prolonged, monotonous drive,
+  compared to that observed while performing the same task in a hydrated
+  condition. The magnitude of decrement reported, was similar to that observed
+  following the ingestion of an alcoholic beverage resulting in a blood alcohol
+  content of approximately 0.08\% (the current UK legal driving limit), or
+  while sleep deprived.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.physbeh.2015.04.028
+    \endverb
+    \field{issn}{1873-507X (Electronic) 0031-9384 (Linking)}
+    \field{pages}{313\bibrangedash 8}
+    \field{title}{Mild hypohydration increases the frequency of driver errors
+  during a prolonged, monotonous driving task}
+    \field{volume}{147}
+    \field{journaltitle}{Physiol Behav}
+    \field{month}{08}
+    \field{year}{2015}
+  \endentry
+
+  \entry{scammacca_meta-analysis_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SN}{%
+         family={Scammacca},
+         familyi={S\bibinitperiod},
+         given={Nancy},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Roberts},
+         familyi={R\bibinitperiod},
+         given={Greg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SKK}{%
+         family={Stuebing},
+         familyi={S\bibinitperiod},
+         given={Karla\bibnamedelima K.},
+         giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SNRGSKK1}
+    \strng{fullhash}{SNRGSKK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Previous research has shown that treating dependent effect sizes as
+  independent inflates the variance of the mean effect size and introduces bias
+  by giving studies with more effect sizes more weight in the meta-analysis.
+  This article summarizes the different approaches to handling dependence that
+  have been advocated by methodologists, some of which are more feasible to
+  implement with education research studies than others. A case study using
+  effect sizes from a recent meta-analysis of reading interventions is
+  presented to compare the results obtained from different approaches to
+  dealing with dependence. Overall, mean effect sizes and variance estimates
+  were found to be similar, but estimates of indexes of heterogeneity varied.
+  Meta-analysts are advised to explore the effect of the method of handling
+  dependence on the heterogeneity estimates before conducting moderator
+  analyses and to choose the approach to dependence that is best suited to
+  their research question and their data set.%
+    }
+    \verb{doi}
+    \verb 10.3102/0034654313500826
+    \endverb
+    \field{issn}{0034-6543}
+    \field{number}{3}
+    \field{pages}{328\bibrangedash 364}
+    \field{shorttitle}{Meta-{Analysis} {With} {Complex} {Research} {Designs}}
+    \field{title}{Meta-{Analysis} {With} {Complex} {Research} {Designs}:
+  {Dealing} {With} {Dependence} {From} {Multiple} {Measures} and {Multiple}
+  {Group} {Comparisons}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4191743/
+    \endverb
+    \field{volume}{84}
+    \verb{file}
+    \verb PubMed Central Full Text PDF:C\:\\Users\\mattw\\AppData\\Roaming\\Moz
+    \verb illa\\Firefox\\Profiles\\khmzbkud.default\\zotero\\storage\\P6VZSQ5A\
+    \verb \Scammacca et al. - 2014 - Meta-Analysis With Complex Research Design
+    \verb s Deali.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Review of educational research}
+    \field{month}{09}
+    \field{year}{2014}
+    \field{urlday}{26}
+    \field{urlmonth}{06}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{hedges_robust_2010}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HLV}{%
+         family={Hedges},
+         familyi={H\bibinitperiod},
+         given={L.\bibnamedelima V.},
+         giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=TE}{%
+         family={Tipton},
+         familyi={T\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=JMC}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={M.\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HLVTEJMC1}
+    \strng{fullhash}{HLVTEJMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Conventional meta-analytic techniques rely on the assumption that effect
+  size estimates from different studies are independent and have sampling
+  distributions with known conditional variances. The independence assumption
+  is violated when studies produce several estimates based on the same
+  individuals or there are clusters of studies that are not independent (such
+  as those carried out by the same investigator or laboratory). This paper
+  provides an estimator of the covariance matrix of meta-regression
+  coefficients that are applicable when there are clusters of internally
+  correlated estimates. It makes no assumptions about the specific form of the
+  sampling distributions of the effect sizes, nor does it require knowledge of
+  the covariance structure of the dependent estimates. Moreover, this paper
+  demonstrates that the meta-regression coefficients are consistent and
+  asymptotically normally distributed and that the robust variance estimator is
+  valid even when the covariates are random. The theory is asymptotic in the
+  number of studies, but simulations suggest that the theory may yield accurate
+  results with as few as 20-40 studies. Copyright (c) 2010 John Wiley \& Sons,
+  Ltd.%
+    }
+    \verb{doi}
+    \verb 10.1002/jrsm.5
+    \endverb
+    \field{issn}{1759-2879 (Print) 1759-2879 (Linking)}
+    \field{pages}{39\bibrangedash 65}
+    \field{title}{Robust variance estimation in meta-regression with dependent
+  effect size estimates}
+    \field{volume}{1}
+    \field{journaltitle}{Res Synth Methods}
+    \field{month}{01}
+    \field{year}{2010}
+  \endentry
+
+  \entry{tipton_small_2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TE}{%
+         family={Tipton},
+         familyi={T\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \keyw{*Meta Analysis, *Statistical Estimation, *Statistical Samples,
+  Adjustment}
+    \strng{namehash}{TE1}
+    \strng{fullhash}{TE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Although primary studies often report multiple outcomes, the covariances
+  between these outcomes are rarely reported. This leads to difficulties when
+  combining studies in a meta-analysis. This problem was recently addressed
+  with the introduction of robust variance estimation. This new method enables
+  the estimation of meta-regression models with dependent effect sizes, even
+  when the dependence structure is unknown. Although robust variance estimation
+  has been shown to perform well when the number of studies in the
+  meta-analysis is large, previous simulation studies suggest that the
+  associated tests often have Type I error rates that are much larger than
+  nominal. In this article, I introduce 6 estimators with better small sample
+  properties and study the effectiveness of these estimators via 2 simulation
+  studies. The results of these simulations suggest that the best estimator
+  involves correcting both the residuals and degrees of freedom used in the
+  robust variance estimator. These studies also suggest that the degrees of
+  freedom depend on not only the number of studies but also the type of
+  covariates in the meta-regression. The fact that the degrees of freedom can
+  be small, even when the number of studies is large, suggests that these
+  small-sample corrections should be used more generally. I conclude with an
+  example comparing the results of a meta-regression with robust variance
+  estimation with the results from the corrected estimator.%
+    }
+    \verb{doi}
+    \verb 10.1037/met0000011
+    \endverb
+    \field{issn}{1939-1463 1082-989X}
+    \field{number}{3}
+    \field{pages}{375\bibrangedash 393}
+    \field{title}{Small sample adjustments for robust variance estimation with
+  meta-regression}
+    \field{volume}{20}
+    \field{journaltitle}{Psychological Methods}
+    \field{year}{2015}
+  \endentry
+
+  \entry{tanner-smith_robust_2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TSEE}{%
+         family={Tanner-Smith},
+         familyi={T\bibinitperiod-S\bibinitperiod},
+         given={Emily\bibnamedelima E.},
+         giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=TE}{%
+         family={Tipton},
+         familyi={T\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{dependent effect sizes, robust variance estimation, software
+  tutorial}
+    \strng{namehash}{TSEETE1}
+    \strng{fullhash}{TSEETE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Methodologists have recently proposed robust variance estimation as one way
+  to handle dependent effect sizes in meta-analysis. Software macros for robust
+  variance estimation in meta-analysis are currently available for Stata
+  (StataCorp LP, College Station, TX, USA) and spss (IBM, Armonk, NY, USA), yet
+  there is little guidance for authors regarding the practical application and
+  implementation of those macros. This paper provides a brief tutorial on the
+  implementation of the Stata and spss macros and discusses practical issues
+  meta-analysts should consider when estimating meta-regression models with
+  robust variance estimates. Two example databases are used in the tutorial to
+  illustrate the use of meta-analysis with robust variance estimates. Copyright
+  © 2013 John Wiley \& Sons, Ltd.%
+    }
+    \verb{doi}
+    \verb 10.1002/jrsm.1091
+    \endverb
+    \field{issn}{1759-2887}
+    \field{number}{1}
+    \field{pages}{13\bibrangedash 30}
+    \field{shorttitle}{Robust variance estimation with dependent effect sizes}
+    \field{title}{Robust variance estimation with dependent effect sizes:
+  practical considerations including a software tutorial in {Stata} and spss}
+    \verb{url}
+    \verb http://onlinelibrary.wiley.com/doi/10.1002/jrsm.1091/abstract
+    \endverb
+    \field{volume}{5}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\
+    \verb Profiles\\khmzbkud.default\\zotero\\storage\\GZM94CP6\\Tanner-Smith a
+    \verb nd Tipton - 2014 - Robust variance estimation with dependent effect s
+    \verb .pdf:application/pdf;Snapshot:C\:\\Users\\mattw\\AppData\\Roaming\\Mo
+    \verb zilla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\storage\\F28A27GV
+    \verb \\abstract.html:text/html
+    \endverb
+    \field{journaltitle}{Research Synthesis Methods}
+    \field{month}{03}
+    \field{year}{2014}
+    \field{urlday}{26}
+    \field{urlmonth}{06}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{tomporowski_effects_2007}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TPD}{%
+         family={Tomporowski},
+         familyi={T\bibinitperiod},
+         given={P.\bibnamedelima D.},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Beasman},
+         familyi={B\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GMS}{%
+         family={Ganio},
+         familyi={G\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Cureton},
+         familyi={C\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{Executive function, Fatigue, Information processing, Memory}
+    \strng{namehash}{TPDBKGMSCK1}
+    \strng{fullhash}{TPDBKGMSCK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The effects of exercise-induced dehydration and fluid ingestion on men's
+  cognitive performance were assessed. Eleven young men attended separate
+  sessions in which each individual cycled in a controlled environment at 60\%
+  of V̇O2max for periods of 15, 60, or 120 min without fluid replacement or
+  120 min with fluid replacement. Immediately following the assigned submaximal
+  exercise period, the participant completed a graded exercise test to
+  voluntary exhaustion. An executive processing test and a short-term memory
+  test were performed prior to and immediately following exercise.
+  Choice-response times during the executive processing test decreased
+  following exercise, regardless of the level of dehydration. Choice-response
+  errors increased following exercise, but only on trials requiring set
+  shifting. Short-term memory performance improved following exercise,
+  regardless of the level of dehydration. Changes in cognitive performance
+  following exercise are hypothesized to be related to metabolic arousal
+  following strenuous physical activity. © Georg Thieme Verlag KG Stuttgart.%
+    }
+    \field{pages}{891\bibrangedash 896}
+    \field{title}{Effects of dehydration and fluid ingestion on cognition}
+    \field{volume}{28}
+    \verb{file}
+    \verb Tomporowski 2007 Dehydration and Cognition.pdf:C\:\\Users\\mattw\\gdr
+    \verb ive\\Papers\\Tomporowski 2007 - Deh Fluid Ingestion Cognition - Int J
+    \verb  Sports Med.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{International Journal Of Sports Medicine}
+    \field{year}{2007}
+  \endentry
+
+  \entry{shields_does_2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SGS}{%
+         family={Shields},
+         familyi={S\bibinitperiod},
+         given={G.\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bonner},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MWG}{%
+         family={Moons},
+         familyi={M\bibinitperiod},
+         given={W.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \keyw{*Inhibition (Psychology), *Set (Psychology), Animals, Attention/*drug
+  effects, Cognitive inhibition, Cortisol, Executive attention, Executive
+  function, Executive Function/*drug effects, Humans,
+  Hydrocortisone/*pharmacology, Inhibition, Interference control, Memory,
+  Short-Term/*drug effects, Meta-analysis, Neuropsychological Tests, Response
+  inhibition, Set-shifting, Working memory}
+    \strng{namehash}{SGSBJCMWG1}
+    \strng{fullhash}{SGSBJCMWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The hormone cortisol is often believed to play a pivotal role in the
+  effects of stress on human cognition. This meta-analysis is an attempt to
+  determine the effects of acute cortisol administration on core executive
+  functions. Drawing on both rodent and stress literatures, we hypothesized
+  that acute cortisol administration would impair working memory and
+  set-shifting but enhance inhibition. Additionally, because cortisol is
+  thought to exert different nongenomic (rapid) and genomic (slow) effects, we
+  further hypothesized that the effects of cortisol would differ as a function
+  of the delay between cortisol administration and cognitive testing. Although
+  the overall analyses were nonsignificant, after separating the rapid,
+  nongenomic effects of cortisol from the slower, genomic effects of cortisol,
+  the rapid effects of cortisol enhanced response inhibition, g+ = 0.113,
+  p=.016, but impaired working memory, g+ = -0.315, p=.008, although these
+  effects reversed over time. Contrary to our hypotheses, there was no effect
+  of cortisol administration on set-shifting. Thus, although we did not find
+  support for the idea that increases in cortisol influence set-shifting, we
+  found that acute increases in cortisol exert differential effects on working
+  memory and inhibition over time.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.psyneuen.2015.04.017
+    \endverb
+    \field{issn}{1873-3360 (Electronic) 0306-4530 (Linking)}
+    \field{pages}{91\bibrangedash 103}
+    \field{title}{Does cortisol influence core executive functions? {A}
+  meta-analysis of acute cortisol administration effects on working memory,
+  inhibition, and set-shifting}
+    \field{volume}{58}
+    \field{journaltitle}{Psychoneuroendocrinology}
+    \field{month}{08}
+    \field{year}{2015}
+  \endentry
+
+  \entry{patel_neuropsychological_2007}{article}{}
+    \name{author}{5}{}{%
+      {{hash=PAV}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Akshay\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=MJP}{%
+         family={Mihalik},
+         familyi={M\bibinitperiod},
+         given={Jason\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=NAJ}{%
+         family={Notebaert},
+         familyi={N\bibinitperiod},
+         given={Andrew\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GKM}{%
+         family={Guskiewicz},
+         familyi={G\bibinitperiod},
+         given={Kevin\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PWE}{%
+         family={Prentice},
+         familyi={P\bibinitperiod},
+         given={William\bibnamedelima E.},
+         giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{2007, Athletes, Brain Concussion, concussion, dehydration,
+  euhydrated, Neuropsychological Assessment, neuropsychological performance,
+  postural stability, Posture, recreational athletes, Symptoms}
+    \strng{namehash}{PAVMJPNAJGKMPWE1}
+    \strng{fullhash}{PAVMJPNAJGKMPWE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Context: Dehydration and concussion are common in athletic performance.
+  Some experts have speculated that dehydration may negatively influence
+  performance on tests commonly used for concussion assessment. Objective: To
+  determine how the signs and symptoms, neuropsychological performance, and
+  postural stability are affected by dehydration. Design: Repeated-measures
+  design assessing subjects in the euhydrated and dehydrated conditions.
+  Setting: Sports Medicine Research Laboratory. Patients or Other Participants:
+  Twenty-four healthy, male recreational athletes participated in the study.
+  Intervention(s): Subjects participated in 2 counterbalanced sessions
+  (euhydrated and dehydrated) separated by at least 7 days. Subjects were
+  dehydrated using fluid restriction and an exercise task. No direct
+  intervention was provided for the euhydrated condition. Main Outcome
+  Measure(s): We used the Standardized Assessment of Concussion to test mental
+  status, the Automated Neuropsychological Assessment Metrics (ANAM) to
+  evaluate neuropsychological performance, the NeuroCom Sensory Organization
+  Test and Balance Error Scoring System to test postural stability, the Graded
+  Symptom Checklist to assess symptom presence and severity in our
+  participants, and urine specific gravity and body mass to determine hydration
+  status. Results: No differences were noted for the Standardized Assessment of
+  Concussion, total Balance Error Scoring System errors, composite Sensory
+  Organization Test, and composite ANAM scores between conditions. Subjects in
+  the dehydrated condition had significant deterioration in visual memory
+  (t₂₃ = 2.130, P {\textless} .001) and fatigue measures (t₂₃ = -7.880,
+  P {\textless} .001) as assessed by ANAM. The dehydrated condition resulted in
+  subjects reporting a significantly higher number (t₂₃ = -8.585, P
+  {\textless} .001) and severity (t₂₃ = -7.673, P {\textless} .001) of
+  symptoms than the euhydrated subjects on the Graded Symptom Checklist.
+  Conclusions: Our results suggest that moderate dehydration (-2.5 ± 0.63\%)
+  significantly influenced the self-report of symptoms commonly associated with
+  concussion. Dehydration resulted in a deterioration of visual memory and
+  increases in the self-report of fatigue. Despite these findings, dehydration
+  did not affect other neuropsychological and postural stability objective
+  testing measures for concussion. (PsycINFO Database Record (c) 2016 APA, all
+  rights reserved)%
+    }
+    \field{issn}{1062-6050 1938-162X}
+    \field{number}{1}
+    \field{pages}{66\bibrangedash 75}
+    \field{shorttitle}{Neuropsychological performance, postural stability, and
+  symptoms after dehydration}
+    \field{title}{Neuropsychological performance, postural stability, and
+  symptoms after dehydration}
+    \verb{url}
+    \verb http://prx.library.gatech.edu/login?url=http://search.ebscohost.com/l
+    \verb ogin.aspx?direct=true&db=psyh&AN=2007-06591-001&site=ehost-live gus@e
+    \verb mail.unc.edu
+    \endverb
+    \field{volume}{42}
+    \field{journaltitle}{Journal of Athletic Training}
+    \field{year}{2007}
+  \endentry
+
+  \entry{cian_influence_2000}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CC}{%
+         family={Cian},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Koulmann},
+         familyi={K\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BPA}{%
+         family={Barraud},
+         familyi={B\bibinitperiod},
+         given={P.\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Raphel},
+         familyi={R\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={Jimenez},
+         familyi={J\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Melin},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{dehydration, Exercise, Heat, Hyperhydration, Memory, Mental
+  performance}
+    \strng{namehash}{CCKNBPARCJCMB1}
+    \strng{fullhash}{CCKNBPARCJCMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Eight healthy men, unacclimated to heat, were submitted to variations in
+  body hydration. The subjects were kept euhydrated, dehydrated by controlled
+  passive hyperthermia or exercise on a treadmill up to a weight loss of 2.8\%,
+  or hyperhydrated using a solution containing glycerol, with a total ingested
+  volume equal to 21.4 ml/kg of body weight. On completion of a 90-min recovery
+  period, the subjects were assigned a pedaling exercise on an arm-crank
+  ergometer. Psychological tests were administered 30 min after the phase of
+  hydration variation and 15 min after the arm crank exercise. Both dehydration
+  conditions impaired cognitive abilities (i.e., perceptive discrimination,
+  psycho-motor skills, and short-term memory) as well as subjective estimates
+  of fatigue, without any relevant differences between them. Short-term memory
+  was significantly greater following hyperhydration when compared to
+  euhydration (P {\textless} .05). Following arm crank exercise, further
+  effects of dehydration were found for tracking performance only (P
+  {\textless} .05). Moreover, long-term memory was impaired in both control and
+  dehydration situations, whereas there was no decrement in performance in the
+  hyperhydration condition.%
+    }
+    \field{pages}{29\bibrangedash 36}
+    \field{title}{Influence of variations in body hydration on cognitive
+  function: {Effect} of hyperhydration, heat stress, and exercise-induced
+  dehydration}
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Psychophysiology}
+    \field{year}{2000}
+  \endentry
+
+  \entry{wong_effects_2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WSHS}{%
+         family={Wong},
+         familyi={W\bibinitperiod},
+         given={S.\bibnamedelima H.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=SFH}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={F.-H.},
+         giveni={F\bibinitperiod-H\bibinitperiod},
+      }}%
+      {{hash=HWYJ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={W.\bibnamedelima Y.\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+      {{hash=CYJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Y.-J.},
+         giveni={Y\bibinitperiod-J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adult, Beverages, Body Mass Index, Cognition, Cross-Over Studies,
+  Dietary Carbohydrates, Drinking Water, Electrolytes, Exercise, Female,
+  Humans, Male, Osmolar Concentration, Plasma Volume, Potassium, Rehydration
+  Solutions, Sex Factors, Sodium, Tea, Urine, Young Adult}
+    \strng{namehash}{WSHSSFHHWYJCYJ1}
+    \strng{fullhash}{WSHSSFHHWYJCYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The purpose of the present study was to investigate the effect of
+  carbohydrate-electrolyte solution (CE), lemon tea (LT), and distilled water
+  (DW) on rehydration and cognitive performance after 60 min of moderate
+  exercise. 9 healthy males and 10 eumenorrheic females completed 3 runs in a
+  randomized crossover study design. During the 4-h recovery (REC) period, they
+  consumed either a volume of CE, LT or DW equal to 150\% of their body mass
+  (BM) loss during the previous run. The 3 beverages vary in carbohydrate and
+  electrolyte content. A battery of cognitive tests was performed upon arrival,
+  immediately after exercise, and at the end of REC. After the REC, the
+  restoration of BM loss was lower in the DW and LT trials than that in the CE
+  trial in the female participants (CE vs. LT vs. DW: 59.3±2.8 vs. 41.7±5.7
+  vs. 45.6±2.2\%). When compared with the DW, the accuracy of performances
+  during a working memory task in both males and females was higher in the CE
+  and LT trials. The results suggested that during a short-term recovery, both
+  LT and CE show certain beneficial effect in maintaining cognitive
+  performance. However, CE appears to be more effective than LT and DW in
+  rehydrating female participants.%
+    }
+    \verb{doi}
+    \verb 10.1055/s-0034-1370968
+    \endverb
+    \field{issn}{1439-3964}
+    \field{number}{14}
+    \field{pages}{1208\bibrangedash 1215}
+    \field{title}{Effects of beverages with variable nutrients on rehydration
+  and cognitive function}
+    \field{volume}{35}
+    \field{journaltitle}{International Journal of Sports Medicine}
+    \field{month}{12}
+    \field{year}{2014}
+  \endentry
+
+  \entry{weber_dehydration_2013}{article}{}
+    \name{author}{6}{}{%
+      {{hash=WAF}{%
+         family={Weber},
+         familyi={W\bibinitperiod},
+         given={Amanda\bibnamedelima Friedline},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=MJP}{%
+         family={Mihalik},
+         familyi={M\bibinitperiod},
+         given={Jason\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=RMJK}{%
+         family={Register-Mihalik},
+         familyi={R\bibinitperiod-M\bibinitperiod},
+         given={Johna\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mays},
+         familyi={M\bibinitperiod},
+         given={Sally},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PWE}{%
+         family={Prentice},
+         familyi={P\bibinitperiod},
+         given={William\bibnamedelima E.},
+         giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GKM}{%
+         family={Guskiewicz},
+         familyi={G\bibinitperiod},
+         given={Kevin\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{2013, balance performance, collegiate wrestlers, dehydration,
+  Equilibrium, neurocognitive function, Neurolinguistics, Reaction Time,
+  Sports, Symptoms}
+    \strng{namehash}{WAFMJPRMJKMSPWEGKM1}
+    \strng{fullhash}{WAFMJPRMJKMSPWEGKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Context: The effects of dehydration induced by wrestling-related
+  weight-cutting tactics on clinical concussion outcomes, such as
+  neurocognitive function, balance performance, and symptoms, have not been
+  adequately studied. Objective: To evaluate the effects of dehydration on the
+  outcome of clinical concussion measures in National Collegiate Athletic
+  Association Division I collegiate wrestlers. Design: Repeated-measures
+  design. Setting: Clinical research laboratory. Patients or Other
+  Participants: Thirty-two Division I healthy collegiate male wrestlers (age =
+  20.0 ± 1.4 years; height = 175.0 ±6 7.5 cm; baseline mass = 79.2 ± 12.6
+  kg). Intervention(s): Participants completed preseason concussion baseline
+  testing in early September. Weight and urine samples were also collected at
+  this time. All participants reported to prewrestling practice and
+  postwrestling practice for the same test battery and protocol in mid-October.
+  They had begun practicing weight-cutting tactics a day before prepractice and
+  postpractice testing. Differences between these measures permitted us to
+  evaluate how dehydration and weight-cutting tactics affected concussion
+  measures. Main Outcome Measures: Sport Concussion Assessment Tool 2 (SCAT2),
+  Balance Error Scoring System, Graded Symptom Checklist, and Simple Reaction
+  Time scores. The Simple Reaction Time was measured using the Automated
+  Neuropsychological Assessment Metrics. Results: The SCAT2 measurements were
+  lower at prepractice (P = .002) and postpractice (P {\textless} .001) when
+  compared with baseline. The BESS error scores were higher at postpractice
+  when compared with baseline (P = .015). The GSC severity scores were higher
+  at prepractice (P = .011) and postpractice (P {\textless} .001) than at
+  baseline and at postpractice when than at prepractice (P = .003). The number
+  of Graded Symptom Checklist symptoms reported was also higher at prepractice
+  (P = .036) and postpractice (P {\textless} .001) when compared with baseline,
+  and at postpractice when compared with prepractice (P = .003). Conclusions:
+  Our results suggest that it is important for wrestlers to be evaluated in a
+  euhydrated state to ensure that dehydration is not influencing the outcome of
+  the clinical measures.%
+    }
+    \verb{doi}
+    \verb 10.4085/1062-6050-48.1.07
+    \endverb
+    \field{issn}{1062-6050 1938-162X}
+    \field{number}{2}
+    \field{pages}{153\bibrangedash 160}
+    \field{shorttitle}{Dehydration and performance on clinical concussion
+  measures in collegiate wrestlers}
+    \field{title}{Dehydration and performance on clinical concussion measures
+  in collegiate wrestlers}
+    \field{volume}{48}
+    \field{journaltitle}{Journal of Athletic Training}
+    \field{year}{2013}
+  \endentry
+
+  \entry{kenefick_hydration_2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KR}{%
+         family={Kenefick},
+         familyi={K\bibinitperiod},
+         given={RW},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sawka},
+         familyi={S\bibinitperiod},
+         given={MN},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KRSM1}
+    \strng{fullhash}{KRSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When performing physical work, sweat output often exceeds water intake,
+  producing a body water deficit or dehydration. Specific to the work place,
+  dehydration can adversely affect worker productivity, safety, and morale.
+  Legislative bodies in North America such as the Occupational Safety and
+  Health Administration (OSHA) and the American Conference of Governmental
+  Industrial Hygienists (ACGIH) recommend replacing fluids frequently when
+  exposed to heat stress, such as one cup (250 ml) every 20 minutes when
+  working in warm environments. However, the majority of legislative guidelines
+  provide vague guidance and none take into account the effects of work
+  intensity, specific environments, or protective clothing. Improved
+  occupational guidelines for fluid and electrolyte replacement during hot
+  weather occupational activities should be developed to include
+  recommendations for fluid consumption before, during, and after work.%
+    }
+    \verb{doi}
+    \verb 10.1080/07315724.2007.10719665
+    \endverb
+    \field{issn}{0731-5724}
+    \field{number}{sup5}
+    \field{pages}{597S\bibrangedash 603S}
+    \field{title}{Hydration at the {Work} {Site}}
+    \field{volume}{26}
+    \verb{file}
+    \verb Snapshot:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\Profi
+    \verb les\\khmzbkud.default\\zotero\\storage\\J9W3SQXQ\\07315724.2007.html:
+    \verb text/html
+    \endverb
+    \field{journaltitle}{Journal of the American College of Nutrition}
+    \field{month}{10}
+    \field{year}{2007}
+    \field{urlday}{21}
+    \field{urlmonth}{07}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{grego_influence_2005}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GF}{%
+         family={Grego},
+         familyi={G\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=VJM}{%
+         family={Vallier},
+         familyi={V\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Collardeau},
+         familyi={C\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Rousseu},
+         familyi={R\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cremieux},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Brisswalter},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult, Bicycling/*physiology, Body Temperature/physiology, Body
+  Weight/physiology, Cognition/*physiology, Exercise/*physiology,
+  Fatigue/physiopathology, Humans, Male, Oxygen Consumption/physiology,
+  Physical Endurance/*physiology, Task Performance and Analysis,
+  Water/administration \& dosage, Water-Electrolyte Balance/*physiology,
+  Water/physiology}
+    \strng{namehash}{GFVJMCMRCCJBJ1}
+    \strng{fullhash}{GFVJMCMRCCJBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The purpose of the present study was to examine the influence of submaximal
+  aerobic exercise duration on simple and complex cognitive performance. Eight
+  well-trained male subjects agreed to participate in this study (trial group).
+  A control group of eight regularly trained male subjects was included for
+  comparative purposes. For the trial group, the experiment involved a critical
+  flicker fusion test (CFF) and a map recognition task performed before, every
+  20 min during, and immediately after, a 3-h cycling task at an intensity
+  corresponding to approximately 60 \% of VO2max. Data were obtained over two
+  experimental sessions with fluid ingestion (F) or no fluid (NF) ingestion.
+  For the control group the experiment was the same but without exercise and
+  fluid ingestion. In the trial group, a significant effect of hydration status
+  was observed on physiological parameters (p {\textless}0.05). No effect was
+  found on cognitive performance. A significant decrease in CFF performance was
+  observed after 120 min of exercise when compared with the first 20 min
+  (respectively for CFFmdi: 2.6 vs. 3.8 Hz), irrespective of experimental
+  condition. A significant improvement in speed of response (respectively: 3291
+  vs. 3062 msec for 20 and 120 min, respectively) and a decrease in error
+  number (21.5 \% vs. 6.0 \% for 20 and 120 min, respectively) during the map
+  recognition task were recorded between 80 min and 120 min when compared with
+  the first 20 min of exercise. After 120 min the number of recorded errors was
+  significantly greater indicating a shift in the accuracy-speed trade-off (6.0
+  \% vs. 14.1 \% for 120 and 180 min, respectively). These results provide some
+  evidence for exercise-induced facilitation of cognitive function. However
+  this positive effect disappears during prolonged exercise--as evidenced
+  within our study by an increase in errors during the complex task and an
+  alteration in perceptual response (i.e. the appearance of symptoms of central
+  fatigue).;%
+    }
+    \field{issn}{0172-4622}
+    \field{pages}{27\bibrangedash 33}
+    \field{title}{Influence of exercise duration and hydration status on
+  cognitive function during prolonged cycling exercise}
+    \field{volume}{26}
+    \field{journaltitle}{International Journal Of Sports Medicine}
+    \field{year}{2005}
+  \endentry
+
+  \entry{van_den_heuvel_independent_2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=vdHAMJ}{%
+         prefix={van\bibnamedelima den},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Heuvel},
+         familyi={H\bibinitperiod},
+         given={Anne M.\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+      {{hash=HBJ}{%
+         family={Haberley},
+         familyi={H\bibinitperiod},
+         given={Benjamin\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HDJR}{%
+         family={Hoyle},
+         familyi={H\bibinitperiod},
+         given={David J.\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=TNAS}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Nigel A.\bibnamedelima S.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=CRJ}{%
+         family={Croft},
+         familyi={C\bibinitperiod},
+         given={Rodney\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adult, Body Temperature, Cognition, Cognitive performance,
+  Dehydration, Heat Stress Disorders, Humans, Hyperthermia, Male, Memory,
+  Short-Term, Perception, Random Allocation, Visual Perception, Working memory}
+    \strng{namehash}{HAMJvdHBJHDJRTNASCRJ1}
+    \strng{fullhash}{HAMJvdHBJHDJRTNASCRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    PURPOSE: Many researchers have addressed the potential effects of
+  hyperthermia and dehydration on cognition, often revealing contradictory
+  outcomes. A possible reason for this inconsistency is that experiments may
+  have been inadequately designed for such effects. In this study, the impact
+  of hyperthermia, dehydration and their combination on cognition were
+  evaluated in eight young males, after accounting for a range of experimental
+  limitations. METHODS: Passive heating and thermal clamping at two mean body
+  temperatures (36.5, 38.5 °C) were performed under three hydration states
+  (euhydrated, 3 and 5\% dehydrated) to assess their effects on
+  difficulty-matched working memory and visual perception tasks, and on a
+  difficulty manipulated perceptual task. Data were analysed according to
+  signal detection theory to isolate changes in response sensitivity, bias and
+  speed. RESULTS: Neither moderate hyperthermia (P = 0.141) nor dehydration
+  (P {\textgreater} 0.604) modified response sensitivity, nor did they
+  significantly interact (P {\textgreater} 0.698). Therefore, the ability
+  to distinguish correct from incorrect responses was unaffected. Nevertheless,
+  hyperthermia, but not dehydration (P = 0.301), reduced the response bias
+  (-0.08 versus 2.2 [normothermia]; P = 0.010) and reaction time (mean
+  reduction 49 ms; P {\textless} 0.001), eliciting more liberal and faster
+  responses (P = 0.010). Response bias was reduced for the memory relative
+  to the perceptual task (P = 0.037), and this effect was enhanced during
+  hyperthermia (P = 0.031). CONCLUSIONS: These observations imply that,
+  once potentially confounding influences were controlled, moderate
+  hyperthermia, significant dehydration and their combined effects had
+  insufficient impact to impair cognition within the memory and perceptual
+  domains tested. Nonetheless, moderate hyperthermia elicited more liberal and
+  rapid responses.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00421-017-3592-2
+    \endverb
+    \field{issn}{1439-6327}
+    \field{number}{5}
+    \field{pages}{1025\bibrangedash 1037}
+    \field{title}{The independent influences of heat strain and dehydration
+  upon cognition}
+    \field{volume}{117}
+    \field{journaltitle}{European Journal of Applied Physiology}
+    \field{month}{05}
+    \field{year}{2017}
+  \endentry
+
+  \entry{bandelow_effects_2010}{article}{}
+    \name{author}{8}{}{%
+      {{hash=BS}{%
+         family={Bandelow},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Maughan},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shirreffs},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OK}{%
+         family={Ozgünen},
+         familyi={O\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kurdak},
+         familyi={K\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EG}{%
+         family={Ersöz},
+         familyi={E\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Binnet},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dvorak},
+         familyi={D\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Cognitive function, Core temperature, dehydration, Exercise, Heat,
+  Plasma glucose, Reaction times, Working memory}
+    \strng{namehash}{BSMRSSOKKSEGBMDJ1}
+    \strng{fullhash}{BSMRSSOKKSEGBMDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We investigated the cognitive effects of exercising in the heat on the
+  field players of two football teams in a series of three matches. Different
+  rehydration and cooling strategies were used for one of the teams during the
+  last two games. Cognitive functions were measured before, during and
+  immediately after each football match, as well as core temperature, body
+  mass, plasma osmolality and glucose levels, allowing an estimate of their
+  differential impacts on cognition. The pattern of results suggests that
+  mild-moderate dehydration during exercise in the heat (up to 2.5\%) has no
+  clear effect on cognitive function. Instead, plasma glucose and core
+  temperature changes appear to be the main determinants: higher glucose was
+  related to faster and less accurate performance, whereas core temperature
+  rises had the opposite effect. The 50\% correlation between plasma glucose
+  and core temperatures observed during exercise in the heat may help to
+  stabilize cognitive performance via their opposing effects. The glucose-like
+  effects of sports drinks appear to be mediated by increased plasma glucose
+  levels, because drinks effects became non-significant when plasma glucose
+  levels were added to the models. The cooling intervention had only a
+  beneficial effect on complex visuo-motor speed. © 2010 John Wiley \& Sons
+  A/S.%
+    }
+    \field{pages}{148\bibrangedash 160}
+    \field{title}{The effects of exercise, heat, cooling and rehydration
+  strategies on cognitive function in football players}
+    \field{volume}{20}
+    \verb{file}
+    \verb Bandelow, 2010 - Effects of exercise, heat, cooling, and rehyd on cog
+    \verb  func.pdf:C\:\\Users\\mattw\\gdrive\\Papers\\Bandelow, 2010 - Effects
+    \verb  of exercise, heat, cooling, and rehyd on cog func.pdf:application/pd
+    \verb f
+    \endverb
+    \field{journaltitle}{Scandinavian Journal of Medicine and Science in
+  Sports}
+    \field{year}{2010}
+  \endentry
+
+  \entry{kempton_dehydration_2011}{article}{}
+    \name{author}{11}{}{%
+      {{hash=KM}{%
+         family={Kempton},
+         familyi={K\bibinitperiod},
+         given={MJ},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EU}{%
+         family={Ettinger},
+         familyi={E\bibinitperiod},
+         given={U},
+         giveni={U},
+      }}%
+      {{hash=FR}{%
+         family={Foster},
+         familyi={F\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+      {{hash=WS}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={SR},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Calvert},
+         familyi={C\bibinitperiod},
+         given={GA},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hampshire},
+         familyi={H\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=ZF}{%
+         family={Zelaya},
+         familyi={Z\bibinitperiod},
+         given={FO},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=OR}{%
+         family={O'Gorman},
+         familyi={O\bibinitperiod},
+         given={RL},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={McMorris},
+         familyi={M\bibinitperiod},
+         given={T},
+         giveni={T},
+      }}%
+      {{hash=OA}{%
+         family={Owen},
+         familyi={O\bibinitperiod},
+         given={AM},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={MS},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adolescent, Analysis of Variance, Body Temperature, brain, Brain
+  Mapping, Cognition, Cross-Over Studies, Dehydration, Executive Function,
+  Exercise, Female, Humans, Image Processing, Computer-Assisted, Magnetic
+  Resonance Imaging, Male, Neuropsychological Tests, Reaction Time}
+    \strng{namehash}{KMEUFRWSCGHAZFORMTOASM1}
+    \strng{fullhash}{KMEUFRWSCGHAZFORMTOASM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    It was recently observed that dehydration causes shrinkage of brain tissue
+  and an associated increase in ventricular volume. Negative effects of
+  dehydration on cognitive performance have been shown in some but not all
+  studies, and it has also been reported that an increased perceived effort may
+  be required following dehydration. However, the effects of dehydration on
+  brain function are unknown. We investigated this question using functional
+  magnetic resonance imaging (fMRI) in 10 healthy adolescents (mean age = 16.8,
+  five females). Each subject completed a thermal exercise protocol and
+  nonthermal exercise control condition in a cross-over repeated measures
+  design. Subjects lost more weight via perspiration in the thermal exercise
+  versus the control condition (P {\textless} 0.0001), and lateral ventricle
+  enlargement correlated with the reduction in body mass (r = 0.77, P = 0.01).
+  Dehydration following the thermal exercise protocol led to a significantly
+  stronger increase in fronto-parietal blood-oxygen-level-dependent (BOLD)
+  response during an executive function task (Tower of London) than the control
+  condition, whereas cerebral perfusion during rest was not affected. The
+  increase in BOLD response after dehydration was not paralleled by a change in
+  cognitive performance, suggesting an inefficient use of brain metabolic
+  activity following dehydration. This pattern indicates that participants
+  exerted a higher level of neuronal activity in order to achieve the same
+  performance level. Given the limited availability of brain metabolic
+  resources, these findings suggest that prolonged states of reduced water
+  intake may adversely impact executive functions such as planning and
+  visuo-spatial processing.%
+    }
+    \verb{doi}
+    \verb 10.1002/hbm.20999
+    \endverb
+    \field{issn}{1097-0193}
+    \field{number}{1}
+    \field{pages}{71\bibrangedash 79}
+    \field{title}{Dehydration affects brain structure and function in healthy
+  adolescents}
+    \field{volume}{32}
+    \verb{file}
+    \verb Kempton 2011 - Hum Brain Map - DEH Struc Function.pdf:C\:\\Users\\mat
+    \verb tw\\gdrive\\Papers\\Kempton 2011 - Hum Brain Map - DEH Struc Function
+    \verb .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Human Brain Mapping}
+    \field{month}{01}
+    \field{year}{2011}
+  \endentry
+
+  \entry{hogervorst_cognitive_1996}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HE}{%
+         family={Hogervorst},
+         familyi={H\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Riedel},
+         familyi={R\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jeukendrup},
+         familyi={J\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jolles},
+         familyi={J\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adolescent, Adult, Arousal, Attention, Cognition, Discrimination
+  Learning, Exercise, Exercise Test, Humans, Male, Problem Solving, Psychomotor
+  Performance, Reaction Time, Set (Psychology)}
+    \strng{namehash}{HERWJAJJ1}
+    \strng{fullhash}{HERWJAJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Stimulating as well as detrimental effects of exercise on cognitive
+  functioning have been reported. In the present study, 15 endurance-trained
+  athletes (aged 18 to 42 years) performed a bicycle ergometer endurance test
+  at 75\% of their maximal work capacity (Wmax). Psychomotor and cognitive
+  tests were administered before and immediately after exercise. These
+  consisted of simple reaction time (RT), 3-choice RT and Stimulus-Response
+  (S-R) incompatible RT tasks, a finger-tapping task, and the Stroop test.
+  Simple RT tasks, but also the more complex S-R in compatible RT, and Color
+  Word Interference in the Stroop test showed an increase in speed of
+  performance after exercise relative to baseline. An enhanced activation was
+  probably responsible for this better performance on psychomotor and cognitive
+  tests. Since performance on the most complex task, the Interference subtest
+  of the Stroop, was especially improved after exercise, the expectancy of the
+  subjects of a potential positive effect of exercise was thought to have been
+  responsible.%
+    }
+    \verb{doi}
+    \verb 10.2466/pms.1996.83.2.479
+    \endverb
+    \field{issn}{0031-5125}
+    \field{number}{2}
+    \field{pages}{479\bibrangedash 488}
+    \field{title}{Cognitive performance after strenuous physical exercise}
+    \field{volume}{83}
+    \verb{file}
+    \verb Hogervorst 1996 - Percept Motor Skills - Strenuous PA Cog Perform.pdf
+    \verb :C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khm
+    \verb zbkud.default\\zotero\\storage\\4ZN5WX6F\\Hogervorst 1996 - Percept M
+    \verb otor Skills - Strenuous PA Cog Perform.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Perceptual and Motor Skills}
+    \field{month}{10}
+    \field{year}{1996}
+  \endentry
+
+  \entry{lindseth_effects_2013}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LPD}{%
+         family={Lindseth},
+         familyi={L\bibinitperiod},
+         given={Paul\bibnamedelima D.},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LGN}{%
+         family={Lindseth},
+         familyi={L\bibinitperiod},
+         given={Glenda\bibnamedelima N.},
+         giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=PTV}{%
+         family={Petros},
+         familyi={P\bibinitperiod},
+         given={Thomas\bibnamedelima V.},
+         giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=JWC}{%
+         family={Jensen},
+         familyi={J\bibinitperiod},
+         given={Warren\bibnamedelima C.},
+         giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Caspers},
+         familyi={C\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adolescent, Adult, Aerospace Medicine, Body Weight, Cognition,
+  Computer Simulation, Cross-Over Studies, Dehydration, Humans, Male, Memory,
+  Short-Term, Military Personnel, Space Perception, Task Performance and
+  Analysis, Young Adult}
+    \strng{namehash}{LPDLGNPTVJWCCJ1}
+    \strng{fullhash}{LPDLGNPTVJWCCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The objective of this study was to examine the effect of fluid intake and
+  possible dehydration on cognitive flight performance of pilots. A
+  repeated-measures, counterbalanced, mixed study design was used to examine
+  differences in working memory, spatial orientation, and cognitive flight
+  performance of 40 randomly selected healthy pilots after having high and low
+  fluid intakes. Serial weights were also analyzed to determine differences in
+  cognitive flight performance of the dehydrated (1-3\% weight loss) and
+  hydrated study participants. Results showed flight performance and spatial
+  cognition test scores were significantly (p {\textless} 0.05) poorer for
+  pilots who had low fluid intakes and experienced dehydration in comparison to
+  the hydrated pilots. These findings indicate fluid intake differences
+  resulting in dehydration may have safety implications because peak cognitive
+  performance among pilots is critical for flight safety.%
+    }
+    \verb{doi}
+    \verb 10.7205/MILMED-D-13-00013
+    \endverb
+    \field{issn}{1930-613X}
+    \field{number}{7}
+    \field{pages}{792\bibrangedash 798}
+    \field{title}{Effects of hydration on cognitive function of pilots}
+    \field{volume}{178}
+    \field{journaltitle}{Military Medicine}
+    \field{month}{07}
+    \field{year}{2013}
+  \endentry
+
+  \entry{savoie_effect_2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SFA}{%
+         family={Savoie},
+         familyi={S\bibinitperiod},
+         given={Félix-Antoine},
+         giveni={F\bibinitperiod-A\bibinitperiod},
+      }}%
+      {{hash=KRW}{%
+         family={Kenefick},
+         familyi={K\bibinitperiod},
+         given={Robert\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=EBR}{%
+         family={Ely},
+         familyi={E\bibinitperiod},
+         given={Brett\bibnamedelima R.},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CSN}{%
+         family={Cheuvront},
+         familyi={C\bibinitperiod},
+         given={Samuel\bibnamedelima N.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GEDB}{%
+         family={Goulet},
+         familyi={G\bibinitperiod},
+         given={Eric D.\bibnamedelima B.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Anaerobic Threshold, Dehydration, Humans, Muscle Strength, Physical
+  Endurance, Plyometric Exercise}
+    \strng{namehash}{SFAKRWEBRCSNGEDB1}
+    \strng{fullhash}{SFAKRWEBRCSNGEDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    BACKGROUND: How hypohydration impacts non-bodyweight (BW)-dependent muscle
+  performance and vertical jumping ability remains to be determined using
+  meta-analytic procedures. OBJECTIVES: Our objective was to determine the
+  impact of hypohydration on muscle endurance, strength, anaerobic power and
+  capacity and vertical jumping ability using a meta-analytic approach. DATA
+  SOURCES: Studies were located using database searches and cross-referencing.
+  SYNTHESIS METHODS: Effect summaries were obtained using random-effects
+  models; method of moments mixed-effects analysis-of-variance-like procedures
+  were used to determine differences between groups; and restricted maximum
+  likelihood random-effects meta-regressions were performed to determine
+  relationships between variables, impact of confounders, and interaction
+  effects. RESULTS: A total of 28 manuscripts met the inclusion criteria,
+  producing six (upper body muscle endurance), ten (lower body muscle
+  endurance), 14 (upper body muscle strength), 25 (lower body muscle strength),
+  nine (muscle anaerobic power), nine (muscle anaerobic capacity), and 12
+  (vertical jumping ability) effect estimates. Hypohydration impaired overall
+  muscle endurance by 8.3 ± 2.3\% (P {\textless} 0.05), with no significant
+  difference between upper body (-8.4 ± 3.3\%) and lower body (-8.2 ± 3.2\%).
+  As a whole, muscle strength fell by 5.5 ± 1.0\% (P {\textless} 0.05) with
+  hypohydration; the difference between lower (-3.7 ± 1.8\%) and upper (-6.2
+  ± 1.1\%) body was non-significant. Anaerobic power (-5.8 ± 2.3\%) was
+  significantly altered with hypohydration, but anaerobic capacity (-3.5 ±
+  2.3\%) and vertical jumping ability (0.9 ± 0.7\%) were not. No significant
+  correlations were observed between the changes in any of the muscle
+  performance variables or vertical jumping ability and the changes in
+  hypohydration level. Using an active procedure to dehydrate participants
+  decreased muscle performance by an additional 5.4 ± 1.9\% (2.76-fold) (P =
+  0.02) compared with using a passive dehydration procedure. Trained
+  individuals demonstrated a 3.3 ± 1.7\% (1.76-fold) (P = 0.06) lesser
+  decrease in muscle performance with hypohydration than did untrained
+  individuals. CONCLUSION: Hypohydration, or factors associated with
+  dehydration, are likely to be associated with practically important
+  decrements in muscle endurance, strength, and anaerobic power and capacity.
+  However, their impact on non-BW-dependent muscle performance is substantially
+  mitigated in trained individuals or when hypohydration is induced passively.
+  Conversely, it is possible that body water loss ({\textasciitilde}3\% BW) may
+  improve performance in BW-dependent tasks such as vertical jumping ability.%
+    }
+    \verb{doi}
+    \verb 10.1007/s40279-015-0349-0
+    \endverb
+    \field{issn}{1179-2035}
+    \field{number}{8}
+    \field{pages}{1207\bibrangedash 1227}
+    \field{shorttitle}{Effect of {Hypohydration} on {Muscle} {Endurance},
+  {Strength}, {Anaerobic} {Power} and {Capacity} and {Vertical} {Jumping}
+  {Ability}}
+    \field{title}{Effect of {Hypohydration} on {Muscle} {Endurance},
+  {Strength}, {Anaerobic} {Power} and {Capacity} and {Vertical} {Jumping}
+  {Ability}: {A} {Meta}-{Analysis}}
+    \field{volume}{45}
+    \verb{file}
+    \verb Savoie 2015 - Sports Med - DEH Strength MA.pdf:C\:\\Users\\mattw\\App
+    \verb Data\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\
+    \verb storage\\8IBMHXP3\\Savoie 2015 - Sports Med - DEH Strength MA.pdf:app
+    \verb lication/pdf
+    \endverb
+    \field{journaltitle}{Sports Medicine (Auckland, N.Z.)}
+    \field{month}{08}
+    \field{year}{2015}
+  \endentry
+
+  \entry{baker_progressive_2007}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BLB}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Lindsay\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DKA}{%
+         family={Dougherty},
+         familyi={D\bibinitperiod},
+         given={Kelly\bibnamedelima A.},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Chow},
+         familyi={C\bibinitperiod},
+         given={Mosuk},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KWL}{%
+         family={Kenney},
+         familyi={K\bibinitperiod},
+         given={W.\bibnamedelima Larry},
+         giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Adolescent, Adult, Basketball, Dehydration, Drinking, Heat Stress
+  Disorders, Humans, Male, Task Performance and Analysis}
+    \strng{namehash}{BLBDKACMKWL1}
+    \strng{fullhash}{BLBDKACMKWL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    PURPOSE: To determine the effect of 1, 2, 3, and 4\% dehydration (DEH)
+  versus euhydration (EUH) on basketball performance in adult male players.
+  METHODS: Seventeen 17- to 28-yr-old male basketball players completed 3 h of
+  interval treadmill walking (40 degrees C and 20\% relative humidity) with or
+  without fluid replacement. Subjects completed six trials in random order: 1)
+  EUH with a carbohydrate-electrolyte solution (CES), 2) EUH control (flavored
+  water with 0\% carbohydrate and 18 mM sodium), 3) 1\% DEH, 4) 2\% DEH, 5) 3\%
+  DEH, and 6) 4\% DEH. After a 70-min recovery period, subjects performed a
+  sequence of continuous basketball drills designed to simulate a fast-paced
+  game. Measures of overall skill performance during the 80-min game included
+  1) total time to complete basketball-specific movement drills (sprinting,
+  defensive slides, sprinting-defensive slides combination, and repetitive
+  jumping drills) and 2) total number of shots (foul-line and baseline jump
+  shots, layups, three-point, 15-ft, free throws) made per game. RESULTS:
+  Performance during all timed and shooting drills declined progressively as \%
+  DEH increased. Total time to complete basketball-specific movement drills was
+  slower (1\%: + 7 +/- 6; 2\%: + 20 +/- 5 (P {\textless} 0.05); 3\%: + 26 +/- 7
+  (P {\textless} 0.005); 4\%: + 57 +/- 9 (P {\textless} 0.0001) s), and fewer
+  shots were made during DEH versus EUH control (1\%: -5 +/- 1; 2\%: -6 +/- 2
+  (P {\textless} 0.05); 3\%: -8 +/- 2 (P {\textless} 0.005); 4\%: -10 +/- 1 (P
+  {\textless} 0.0001) shots made). There were no significant differences in
+  performance between CES and EUH control. CONCLUSION: Basketball players
+  experienced a progressive deterioration in performance as DEH progressed from
+  1 to 4\%. The threshold, or \% DEH at which the performance decrement reached
+  statistical significance, was 2\% for combined timed and shooting drills.%
+    }
+    \verb{doi}
+    \verb 10.1249/mss.0b013e3180574b02
+    \endverb
+    \field{issn}{0195-9131}
+    \field{number}{7}
+    \field{pages}{1114\bibrangedash 1123}
+    \field{title}{Progressive dehydration causes a progressive decline in
+  basketball skill performance}
+    \field{volume}{39}
+    \verb{file}
+    \verb Baker 2007 - MSSE - DEH Basketball Skill.pdf:C\:\\Users\\mattw\\AppDa
+    \verb ta\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\st
+    \verb orage\\7ZZ5RZE3\\Baker 2007 - MSSE - DEH Basketball Skill.pdf:applica
+    \verb tion/pdf
+    \endverb
+    \field{journaltitle}{Medicine and Science in Sports and Exercise}
+    \field{month}{07}
+    \field{year}{2007}
+  \endentry
+
+  \entry{danci_voluntary_2009}{article}{}
+    \name{author}{5}{}{%
+      {{hash=DKE}{%
+         family={D'Anci},
+         familyi={D\bibinitperiod},
+         given={Kristen\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Vibhakar},
+         familyi={V\bibinitperiod},
+         given={Arun},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KJH}{%
+         family={Kanter},
+         familyi={K\bibinitperiod},
+         given={Jordan\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MCR}{%
+         family={Mahoney},
+         familyi={M\bibinitperiod},
+         given={Caroline\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=THA}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Holly\bibnamedelima A.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{2009, Cognitive Ability, cognitive performance, College Athletes,
+  dehydration, Emotional States, Glucose, glucose consumption, trained college
+  athletes, voluntary dehydration}
+    \strng{namehash}{DKEVAKJHMCRTHA1}
+    \strng{fullhash}{DKEVAKJHMCRTHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Cognitive and mood decrements resulting from mild dehydration and glucose
+  consumption were studied. Men and women (total N = 54; M age = 19.8 yr., SD =
+  1.2) were recruited from college athletic teams. Euhydration or dehydration
+  was achieved by athletes completing team practices with or without water
+  replacement. Dehydration was associated with higher thirst and negative mood
+  ratings as well as better Digit Span performance. Participants showed better
+  Vigilance Attention with euhydration. Hydration status and athlete's sex
+  interacted with performance on Choice Reaction Time and Vigilance Attention.
+  In a second study, half of the athletes received glucose prior to cognitive
+  testing. Results for negative mood and thirst ratings were similar, but for
+  cognitive performance the results were mixed. Effects of glucose on cognition
+  were independent of dehydration. (PsycINFO Database Record (c) 2016 APA, all
+  rights reserved)%
+    }
+    \verb{doi}
+    \verb 10.2466/pms.109.1.251-269
+    \endverb
+    \field{issn}{0031-5125 1558-688X}
+    \field{number}{1}
+    \field{pages}{251\bibrangedash 269}
+    \field{shorttitle}{Voluntary dehydration and cognitive performance in
+  trained college athletes}
+    \field{title}{Voluntary dehydration and cognitive performance in trained
+  college athletes}
+    \verb{url}
+    \verb http://prx.library.gatech.edu/login?url=http://search.ebscohost.com/l
+    \verb ogin.aspx?direct=true&db=psyh&AN=2010-00565-022&site=ehost-live
+    \endverb
+    \field{volume}{109}
+    \field{journaltitle}{Perceptual and Motor Skills}
+    \field{year}{2009}
+  \endentry
+
+  \entry{bijlani_effect_1980}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BR}{%
+         family={Bijlani},
+         familyi={B\bibinitperiod},
+         given={RI},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={KN},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \strng{namehash}{BRSK1}
+    \strng{fullhash}{BRSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Abstract: The present study was prompted by the controversy about the
+  effect of heat-induced dehydration on human performance, and the popular
+  Indian...%
+    }
+    \field{issn}{0019-5499}
+    \field{number}{4}
+    \field{pages}{255\bibrangedash 266}
+    \field{title}{Effect of dehydration and a few regimes of rehydration on
+  human performance.}
+    \field{volume}{24}
+    \verb{file}
+    \verb Snapshot:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\Profi
+    \verb les\\khmzbkud.default\\zotero\\storage\\SHB6QI3E\\7216381.html:text/h
+    \verb tml
+    \endverb
+    \field{journaltitle}{Indian journal of physiology and pharmacology}
+    \field{year}{1980}
+    \field{urlday}{16}
+    \field{urlmonth}{08}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{sawka_american_2007}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SMN}{%
+         family={Sawka},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima N.},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=BLM}{%
+         family={Burke},
+         familyi={B\bibinitperiod},
+         given={L.\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=EER}{%
+         family={Eichner},
+         familyi={E\bibinitperiod},
+         given={E.\bibnamedelima R.},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MRJ}{%
+         family={Maughan},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MSJ}{%
+         family={Montain},
+         familyi={M\bibinitperiod},
+         given={S.\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SNS}{%
+         family={Stachenfeld},
+         familyi={S\bibinitperiod},
+         given={N.\bibnamedelima S.},
+         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Exercise/ physiology, Fluid Therapy, Humans, Motor Activity,
+  Nutrition Assessment, Sports/ physiology, Time Factors, Water-Electrolyte
+  Balance}
+    \strng{namehash}{SMNBLMEERMRJMSJSNS1}
+    \strng{fullhash}{SMNBLMEERMRJMSJSNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1249/mss.0b013e31802ca597
+    \endverb
+    \field{issn}{0195-9131 (Print) 0195-9131 (Linking)}
+    \field{pages}{377\bibrangedash 90}
+    \field{title}{American {College} of {Sports} {Medicine} position stand.
+  {Exercise} and fluid replacement}
+    \field{volume}{39}
+    \field{journaltitle}{Medicine And Science In Sports And Exercise}
+    \field{month}{02}
+    \field{year}{2007}
+  \endentry
+
+  \entry{andreoli_endocrine_2010}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=AT}{%
+         family={Andreoli},
+         familyi={A\bibinitperiod},
+         given={TW},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reeves},
+         familyi={R\bibinitperiod},
+         given={WB},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bichet},
+         familyi={B\bibinitperiod},
+         given={DG},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Inc.}%
+    }
+    \strng{namehash}{ATRWBD1}
+    \strng{fullhash}{ATRWBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The sections in this article are:%
+    }
+    \field{booktitle}{Comprehensive {Physiology}}
+    \field{isbn}{978-0-470-65071-4}
+    \field{title}{Endocrine {Control} of {Water} {Balance}}
+    \verb{url}
+    \verb http://onlinelibrary.wiley.com/doi/10.1002/cphy.cp070314/abstract
+    \endverb
+    \verb{file}
+    \verb Endocrine Control of Water Balance Andreoli 2000.pdf:C\:\\Users\\matt
+    \verb w\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zo
+    \verb tero\\storage\\MT7QERNE\\Endocrine Control of Water Balance Andreoli
+    \verb 2000.pdf:application/pdf;Full Text PDF:C\:\\Users\\mattw\\AppData\\Ro
+    \verb aming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\storage\
+    \verb \82GXBKKI\\Andreoli et al. - 2010 - Endocrine Control of Water Balanc
+    \verb e.pdf:application/pdf;Snapshot:C\:\\Users\\mattw\\AppData\\Roaming\\M
+    \verb ozilla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\storage\\J57ID7Z
+    \verb T\\abstract.html:text/html
+    \endverb
+    \field{year}{2010}
+    \field{urlday}{10}
+    \field{urlmonth}{07}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{saker_regional_2014}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SP}{%
+         family={Saker},
+         familyi={S\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=FMJ}{%
+         family={Farrell},
+         familyi={F\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AFR}{%
+         family={Adib},
+         familyi={A\bibinitperiod},
+         given={F.\bibnamedelima R.},
+         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=EGF}{%
+         family={Egan},
+         familyi={E\bibinitperiod},
+         given={G.\bibnamedelima F.},
+         giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=MMJ}{%
+         family={McKinley},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DDA}{%
+         family={Denton},
+         familyi={D\bibinitperiod},
+         given={D.\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{*Drinking Water, *Thirst, Adult, Brain/*physiology, Female, fMRI,
+  Humans, Magnetic Resonance Imaging, Male, Middle Aged, swallowing, Young
+  Adult}
+    \strng{namehash}{SPFMJAFREGFMMJDDA1}
+    \strng{fullhash}{SPFMJAFREGFMMJDDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The instinct of thirst was a cardinal element in the successful
+  colonization by vertebrates of the dry land of the planet, which began in the
+  Ordovician period about 400 million y ago. It is a commonplace experience in
+  humans that drinking water in response to thirst following fluid loss is a
+  pleasant experience. However, continuing to drink water once thirst has been
+  satiated becomes unpleasant and, eventually, quite aversive. Functional MRI
+  experiments reported here show pleasantness of drinking is associated with
+  activation in the anterior cingulate cortex (Brodmann area 32) and the
+  orbitofrontal cortex. The unpleasantness and aversion of overdrinking is
+  associated with activation in the midcingulate cortex, insula, amygdala, and
+  periaqueductal gray. Drinking activations in the putamen and cerebellum also
+  correlated with the unpleasantness of water, and the motor cortex showed
+  increased activation during overdrinking compared with drinking during
+  thirst. These activations in motor regions may possibly reflect volitional
+  effort to conduct compliant drinking in the face of regulatory mechanisms
+  inhibiting intake. The results suggestive of a specific inhibitory system in
+  the control of drinking are unique.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1403382111
+    \endverb
+    \field{issn}{1091-6490 (Electronic) 0027-8424 (Linking)}
+    \field{pages}{5379\bibrangedash 84}
+    \field{title}{Regional brain responses associated with drinking water
+  during thirst and after its satiation}
+    \field{volume}{111}
+    \field{journaltitle}{Proc Natl Acad Sci U S A}
+    \field{month}{04}
+    \field{year}{2014}
+  \endentry
+
+  \entry{benton_effect_2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BD}{%
+         family={Benton},
+         familyi={B\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+      {{hash=BN}{%
+         family={Burgess},
+         familyi={B\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+    }
+    \keyw{Attention, Children, Dehydration, Fluid intake, hydration, Memory,
+  Water intake}
+    \strng{namehash}{BDBN1}
+    \strng{fullhash}{BDBN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The impact of asking children to drink water during their school days, and
+  its possible influence on school performance, has been little considered
+  using intervention studies. Therefore in the afternoon the cognitive
+  functioning of 40 children (mean of 8 years and 7 months) was assessed twice,
+  once after drinking 300 ml of water and on another day when no water was
+  provided. Memory was assessed by the recall of 15 previously presented
+  objects. Recall was significantly better on the occasions when water had been
+  consumed. The ability to sustain attention was measured by asking the child
+  to respond to a light that followed an auditory warning after a delay of
+  either 3 or 12 s. The ability to sustain attention was not significantly
+  influenced by whether water had been drunk.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.appet.2009.05.006
+    \endverb
+    \field{issn}{0195-6663}
+    \field{number}{1}
+    \field{pages}{143\bibrangedash 146}
+    \field{title}{The effect of the consumption of water on the memory and
+  attention of children}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0195666309005029
+    \endverb
+    \field{volume}{53}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:C\:\\Users\\mattw\\AppData\\Roaming\\Mozi
+    \verb lla\\Firefox\\Profiles\\khmzbkud.default\\zotero\\storage\\AKU3CVZE\\
+    \verb Benton and Burgess - 2009 - The effect of the consumption of water on
+    \verb  the memo.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\matt
+    \verb w\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\khmzbkud.default\\zo
+    \verb tero\\storage\\A455SQZ5\\S0195666309005029.html:text/html
+    \endverb
+    \field{journaltitle}{Appetite}
+    \field{month}{08}
+    \field{year}{2009}
+    \field{urlday}{13}
+    \field{urlmonth}{07}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{kuperberg_electroencephalography_2004}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=KG}{%
+         family={Kuperberg},
+         familyi={K\bibinitperiod},
+         given={GR},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Psychiatric Publishing}%
+    }
+    \strng{namehash}{KG1}
+    \strng{fullhash}{KG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Essentials of {Neuroimaging} for {Clinical} {Practice}}
+    \field{edition}{1}
+    \field{pages}{117\bibrangedash 127}
+    \field{title}{Electroencephalography, {Event}-{Related} {Potentials}, and
+  {Magnetoencephalography}}
+    \field{year}{2004}
+  \endentry
+
+  \entry{delorme_eeglab:_2004}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DA}{%
+         family={Delorme},
+         familyi={D\bibinitperiod},
+         given={Arnaud},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Makeig},
+         familyi={M\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{Computer Simulation, Electroencephalography, Evoked Potentials,
+  Software}
+    \strng{namehash}{DAMS1}
+    \strng{fullhash}{DAMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    We have developed a toolbox and graphic user interface, EEGLAB, running
+  under the crossplatform MATLAB environment (The Mathworks, Inc.) for
+  processing collections of single-trial and/or averaged EEG data of any number
+  of channels. Available functions include EEG data, channel and event
+  information importing, data visualization (scrolling, scalp map and dipole
+  model plotting, plus multi-trial ERP-image plots), preprocessing (including
+  artifact rejection, filtering, epoch selection, and averaging), independent
+  component analysis (ICA) and time/frequency decompositions including channel
+  and component cross-coherence supported by bootstrap statistical methods
+  based on data resampling. EEGLAB functions are organized into three layers.
+  Top-layer functions allow users to interact with the data through the graphic
+  interface without needing to use MATLAB syntax. Menu options allow users to
+  tune the behavior of EEGLAB to available memory. Middle-layer functions allow
+  users to customize data processing using command history and interactive
+  'pop' functions. Experienced MATLAB users can use EEGLAB data structures and
+  stand-alone signal processing functions to write custom and/or batch analysis
+  scripts. Extensive function help and tutorial information are included. A
+  'plug-in' facility allows easy incorporation of new EEG modules into the main
+  menu. EEGLAB is freely available (http://www.sccn.ucsd.edu/eeglab/) under the
+  GNU public license for noncommercial use and open source development,
+  together with sample data, user tutorial and extensive documentation.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jneumeth.2003.10.009
+    \endverb
+    \field{issn}{0165-0270}
+    \field{number}{1}
+    \field{pages}{9\bibrangedash 21}
+    \field{shorttitle}{{EEGLAB}}
+    \field{title}{{EEGLAB}: an open source toolbox for analysis of single-trial
+  {EEG} dynamics including independent component analysis}
+    \field{volume}{134}
+    \field{journaltitle}{Journal of Neuroscience Methods}
+    \field{month}{03}
+    \field{year}{2004}
+  \endentry
+
+  \entry{armstrong_mild_2012}{article}{}
+    \name{author}{10}{}{%
+      {{hash=ALE}{%
+         family={Armstrong},
+         familyi={A\bibinitperiod},
+         given={L.\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GMS}{%
+         family={Ganio},
+         familyi={G\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CDJ}{%
+         family={Casa},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LEC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={E.\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MBP}{%
+         family={McDermott},
+         familyi={M\bibinitperiod},
+         given={B.\bibnamedelima P.},
+         giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=KJF}{%
+         family={Klau},
+         familyi={K\bibinitperiod},
+         given={J.\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jimenez},
+         familyi={J\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LBL}{%
+         family={Le\bibnamedelima Bellego},
+         familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Chevillotte},
+         familyi={C\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LHR}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={H.\bibnamedelima R.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ALEGMSCDJLECMBPKJFJLLBLCELHR1}
+    \strng{fullhash}{ALEGMSCDJLECMBPKJFJLLBLCELHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Limited information is available regarding the effects of mild dehydration
+  on cognitive function. Therefore, mild dehydration was produced by
+  intermittent moderate exercise without hyperthermia and its effects on
+  cognitive function of women were investigated. Twenty-five females (age 23.0
+  ± 0.6 y) participated in three 8-h, placebo-controlled experiments involving
+  a different hydration state each day: exercise-induced dehydration with no
+  diuretic (DN), exerciseinduced dehydration plus diuretic (DD; furosemide, 40
+  mg), and euhydration (EU). Cognitive performance, mood, and symptoms of
+  dehydration were assessed during each experiment, 3 times at rest and during
+  each of 3 exercise sessions. The DN and DD trials in which a volunteer
+  attained a ≥1\% level of dehydration were pooled and compared to that
+  volunteer's equivalent EU trials. Mean dehydration achieved during these DN
+  and DD trials was 21.36 ± 0.16\% of body mass. Significant adverse effects
+  of dehydration were present at rest and during exercise for vigor-activity,
+  fatigue-inertia, and total mood disturbance scores of the Profile of Mood
+  States and for task difficulty, concentration, and headache as assessed by
+  questionnaire. Most aspects of cognitive performance were not affected by
+  dehydration. Serum osmolality, a marker of hydration, was greater in the mean
+  of the dehydrated trials in which a ≥1\% level of dehydration was achieved
+  (P = 0.006) compared to EU. In conclusion, degraded mood, increased
+  perception of task difficulty, lower concentration, and headache symptoms
+  resulted from 1.36\% dehydration in females. Increased emphasis on optimal
+  hydration is warranted, especially during and after moderate exercise. ©
+  2012 American Society for Nutrition.%
+    }
+    \field{pages}{382\bibrangedash 388}
+    \field{title}{Mild dehydration affects mood in healthy young women}
+    \field{volume}{142}
+    \field{journaltitle}{Journal of Nutrition}
+    \field{year}{2012}
+  \endentry
+
+  \entry{ganio_mild_2011}{article}{}
+    \name{author}{12}{}{%
+      {{hash=GMS}{%
+         family={Ganio},
+         familyi={G\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=ALE}{%
+         family={Armstrong},
+         familyi={A\bibinitperiod},
+         given={L.\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=CDJ}{%
+         family={Casa},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MBP}{%
+         family={McDermott},
+         familyi={M\bibinitperiod},
+         given={B.\bibnamedelima P.},
+         giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LEC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={E.\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=YLM}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={L.\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Marzano},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LRM}{%
+         family={Lopez},
+         familyi={L\bibinitperiod},
+         given={R.\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jimenez},
+         familyi={J\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LBL}{%
+         family={Le\bibnamedelima Bellego},
+         familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Chevillotte},
+         familyi={C\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LHR}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={H.\bibnamedelima R.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \keyw{*Affect, *Cognition, *Dehydration, Adult, Cross-Over Studies,
+  Exercise, Furosemide, Humans, Male, Memory, Placebos, Reaction Time,
+  Reasoning, Single-Blind Method, Task Performance and Analysis, Vigilance}
+    \strng{namehash}{GMSALECDJMBPLECYLMMSLRMJLLBLCELHR1}
+    \strng{fullhash}{GMSALECDJMBPLECYLMMSLRMJLLBLCELHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1017/S0007114511002005
+    \endverb
+    \field{issn}{1475-2662 (Electronic) 0007-1145 (Linking)}
+    \field{pages}{1535\bibrangedash 43}
+    \field{title}{Mild dehydration impairs cognitive performance and mood of
+  men}
+    \field{volume}{106}
+    \field{journaltitle}{The British Journal Of Nutrition}
+    \field{month}{11}
+    \field{year}{2011}
+  \endentry
+
+  \entry{baker_dehydration_2007}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BLB}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={L.\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CDE}{%
+         family={Conroy},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=KWL}{%
+         family={Kenney},
+         familyi={K\bibinitperiod},
+         given={W.\bibnamedelima L.},
+         giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{Cognitive function, Exercise, Fatigue, Fluid consumption, Heat
+  stress, Hydration}
+    \strng{namehash}{BLBCDEKWL1}
+    \strng{fullhash}{BLBCDEKWL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    PURPOSE: To determine the effects of dehydration (DEH) on attentional
+  vigilance in male basketball players. METHODS: The Test of Variables of
+  Attention (TOVA; Universal Attention Disorders) was administered to 11 male
+  basketball players (17-28 yr) at baseline (test 1), after walking (50\%
+  V̇O2max) in the heat (40°C and 20\% relative humidity) (test 2), and then
+  after a simulated basketball game (test 3). Tests 2 and 3 were performed
+  while subjects were either DEH (1-4\%) or euhydrated (EUH). The TOVA
+  consisted of target-infrequent and target-frequent conditions, simulating
+  static and dynamic (such as a basketball game) environments, respectively.
+  TOVA measures included errors of omission (OE) and commission (CE), response
+  time (RT), and sensitivity. RESULTS: During the target-infrequent half of
+  test 3, EUH resulted in significantly better sensitivity (+0.4 ± 1.2 vs -0.9
+  ± 1.3), faster RT (-8 ± 20 vs +16 ± 28), and fewer OE (-0.4 ± 0.7 vs +1.3
+  ± 2.4) compared with DEH. During the target-frequent half, EUH resulted in
+  significantly fewer OE (-4 ± 15 vs +5 ± 7) and CE (-1.9 ± 3.2 vs 0.6
+  ±1.4)in test 2 and greater sensitivity (+0.7 ± 2.6 vs -0.7 ± 1.1) and
+  faster RT (-21 ± 28 vs +5 ± 31) than DEH in test 3. CONCLUSION:
+  Vigilance-related attention of male basketball players was impaired by DEH,
+  especially during the target-frequent condition of the TOVA. These results
+  suggest that fluid replacement is essential to prevent the decline in
+  vigilance that occurs with DEH in highly dynamic environments. Therefore,
+  basketball players should be advised to maintain EUH for optimal
+  concentration and attentional skills during competition. ©2007The American
+  College of Sports Medicine.%
+    }
+    \field{pages}{976\bibrangedash 983}
+    \field{title}{Dehydration impairs vigilance-related attention in male
+  basketball players}
+    \field{volume}{39}
+    \field{journaltitle}{Medicine And Science In Sports And Exercise}
+    \field{year}{2007}
+  \endentry
+
+  \entry{smith_effect_2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SMF}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=NAJ}{%
+         family={Newell},
+         familyi={N\bibinitperiod},
+         given={A.\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BMR}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={M.\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Closed skill, Executive cognitive function, hydration status,
+  Physical performance}
+    \strng{namehash}{SMFNAJBMR1}
+    \strng{fullhash}{SMFNAJBMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Effect of acute mild dehydration on cognitive-motor performance in golf. J
+  Strength Cond Res 26(11): 3075-3080, 2012-Whether mild dehydration (21 to 3\%
+  body mass change [DBM]) impairs neurophysiological function during
+  sport-specific cognitive-motor performance has yet to be fully elucidated. To
+  investigate this within a golfing context, 7 low-handicap players (age: 21 6
+  1.1 years; mass: 76.1 6 11.8 kg; stature: 1.77 6 0.07 m; handicap: 3.0 6 1.2)
+  completed a golf-specific motor and cognitive performance task in a
+  euhydrated condition (EC) and dehydrated condition (DC) (randomized
+  counterbalanced design; 7-day interval). Dehydration was controlled using a
+  previously effective 12-hour fluid restriction, monitored through DBM and
+  urine color assessment (UCOL). Mild dehydration reduced the mean BM by 1.5 6
+  0.5\% (p = 0.01), with UCOL increasing from 2 (EC) to 4 (DC) (p = 0.02). Mild
+  dehydration significantly impaired motor performance, expressed as shot
+  distance (114.6 vs. 128.6 m; p , 0.001) and off-Target accuracy (7.9 vs. 4.1
+  m; p = 0.001). Cognitive performance, expressed as the mean error in distance
+  judgment to target increased from 4.16 3.0 m (EC) to 8.86 4.7 m (DC) (p ,
+  0.001). The findings support those of previous research that indicates mild
+  dehydration (21 to 2\% DBM) significantly impairs cognitive-motor task
+  performance. This study is the first to show that mild dehydration can impair
+  distance, accuracy, and distance judgment during golf performance. © 2012
+  National Strength and Conditioning Association.%
+    }
+    \field{pages}{3075\bibrangedash 3080}
+    \field{title}{Effect of acute mild dehydration on cognitive-motor
+  performance in golf}
+    \field{volume}{26}
+    \field{journaltitle}{Journal of Strength and Conditioning Research}
+    \field{year}{2012}
+  \endentry
+
+  \entry{barroso_hydration_2014}{article}{}
+    \name{author}{12}{}{%
+      {{hash=BSdS}{%
+         family={Barroso},
+         familyi={B\bibinitperiod},
+         given={Sheilla da\bibnamedelima Silva},
+         giveni={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=ARDd}{%
+         family={Almeida},
+         familyi={A\bibinitperiod},
+         given={Rosemeire Dantas\bibnamedelima de},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  d\bibinitperiod},
+      }}%
+      {{hash=GWdS}{%
+         family={Gonzaga},
+         familyi={G\bibinitperiod},
+         given={Wendell da\bibnamedelima Silva},
+         giveni={W\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=CSRAeS}{%
+         family={Camerino},
+         familyi={C\bibinitperiod},
+         given={Saulo Rodrigo Alves e\bibnamedelima Silva},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod A\bibinitperiod
+  e\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LRCP}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Rafaela Carvalho\bibnamedelima Pereira},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=PES}{%
+         family={Prado},
+         familyi={P\bibinitperiod},
+         given={Eduardo\bibnamedelima Seixas},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BSdS}{%
+         family={Barroso},
+         familyi={B\bibinitperiod},
+         given={Sheilla da\bibnamedelima Silva},
+         giveni={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=ARDd}{%
+         family={Almeida},
+         familyi={A\bibinitperiod},
+         given={Rosemeire Dantas\bibnamedelima de},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  d\bibinitperiod},
+      }}%
+      {{hash=GWdS}{%
+         family={Gonzaga},
+         familyi={G\bibinitperiod},
+         given={Wendell da\bibnamedelima Silva},
+         giveni={W\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=CSRAeS}{%
+         family={Camerino},
+         familyi={C\bibinitperiod},
+         given={Saulo Rodrigo Alves e\bibnamedelima Silva},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod A\bibinitperiod
+  e\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LRCP}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Rafaela Carvalho\bibnamedelima Pereira},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=PES}{%
+         family={Prado},
+         familyi={P\bibinitperiod},
+         given={Eduardo\bibnamedelima Seixas},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSdSARDdGWdSCSRAeSLRCPPESBSdSARDdGWdSCSRAeSLRCPPES1}
+    \strng{fullhash}{BSdSARDdGWdSCSRAeSLRCPPESBSdSARDdGWdSCSRAeSLRCPPES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    O objetivo desse estudo foi avaliar o estado de hidratação e desempenho
+  cognitivo-motor em atletas durante uma prova de fast triathlon no calor. Doze
+  triatletas (34 ± 2,7 anos) participaram do trabalho. O estado de
+  hidratação foi mensurado pela perda de massa corporal (MC), coloração e
+  gravidade específica (GE) urinárias. O desempenho cognitivo-motor foi
+  verificado pela coordenação motora (CM) e tempo de reação simples (TRS).
+  Após a prova houve uma diminuição significativa da MC (1,8 \%; P
+  {\textless} 0,001). Um aumento significativo entre pré e pós-competição
+  foi observado para o índice de coloração da urina (P {\textless} 0,001) e
+  GE (P {\textless} 0,001), respectivamente. O TRS foi melhor após a prova.
+  Porém, demonstraram dismetria, prejudicando sua CM. Conclui-se que níveis
+  de desidratação foram observados entre os atletas após a prova.
+  Alterações opostas foram encontradas quanto ao desempenho cognitivo-motor.
+  Atletas demonstraram uma maior descoordenação motora, mas melhoraram seu
+  tempo de reação.Palavras-Chave: Desempenho atlético; Desidratação; Tempo
+  de reação%
+    }
+    \verb{doi}
+    \verb 10.4025/reveducfis.v25i4.22459
+    \endverb
+    \field{issn}{1983-3083}
+    \field{number}{4}
+    \field{pages}{639\bibrangedash 650}
+    \field{title}{Hydration status and cognitive-motor performance during a
+  fast triathlon race in the heat}
+    \field{volume}{25}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Firefox\\
+    \verb Profiles\\khmzbkud.default\\zotero\\storage\\H2HRZQQJ\\Barroso et al.
+    \verb  - 2014 - Hydration status and cognitive-motor performance d.pdf:appl
+    \verb ication/pdf;Snapshot:C\:\\Users\\mattw\\AppData\\Roaming\\Mozilla\\Fi
+    \verb refox\\Profiles\\khmzbkud.default\\zotero\\storage\\X9P8654T\\scielo.
+    \verb html:text/html
+    \endverb
+    \field{journaltitle}{Revista da Educação Física / UEM}
+    \field{month}{12}
+    \field{year}{2014}
+  \endentry
+
+  \entry{cian_effects_2001}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CC}{%
+         family={Cian},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BPA}{%
+         family={Barraud},
+         familyi={B\bibinitperiod},
+         given={P.\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Melin},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Raphel},
+         familyi={R\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{2001, Cognitive Ability, Cognitive function, dehydration, Exercise,
+  fluid ingestion, Fluid intake, Heat, Heat Effects, long term memory,
+  perceptive discrimination, Perceptual Discrimination, Reaction Time, short
+  term memory, tracking, Visual Tracking}
+    \strng{namehash}{CCBPAMBRC1}
+    \strng{fullhash}{CCBPAMBRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Investigated the effects of heat exposure, exercise-induced dehydration,
+  and fluid ingestion on cognitive performance. Seven healthy men were kept
+  euhydrated or were dehydrated by controlled passive exposure to heat (H) or
+  by treadmill exercise (E) up to a weight loss of 2.8\%. On completion of a
+  4-hr recovery, Ss drank a glucose/NaCl solution corresponding to 100\% of
+  body weight loss induced by dehydration. (H1 and E1) or levels of fluid
+  deficit were maintained (H0, E0). In the E0, H0, and control conditions, the
+  S drank a solution containing the same quantity of glucose diluted in water.
+  Tests of long- and short-term memory, perceptive discrimination, reaction
+  time, and tracking were given 30 min after dehydration and 2 hrs after fluid
+  ingestion. Both dehydration conditions impaired cognitive abilities
+  (perceptive discrimination, short-term memory), as well as feelings of
+  fatigue, without any relevant differences between the methods. By 3.5 hrs
+  after fluid deficit, dehydration (H0 and E0) no longer had any adverse
+  effect. Thus, there was no beneficial effect of fluid ingestion (H1 and El)
+  on cognitive variables. However, long-term memory retrieval was impaired in
+  both control and dehydration situations, whereas there was no performance
+  decrement with fluid ingestion (H1, E1). (PsycINFO Database Record (c) 2016
+  APA, all rights reserved)%
+    }
+    \verb{doi}
+    \verb 10.1016/S0167-8760(01)00142-8
+    \endverb
+    \field{issn}{0167-8760}
+    \field{number}{3}
+    \field{pages}{243\bibrangedash 251}
+    \field{shorttitle}{Effects of fluid ingestion on cognitive function after
+  heat stress or exercise-induced dehydration}
+    \field{title}{Effects of fluid ingestion on cognitive function after heat
+  stress or exercise-induced dehydration}
+    \field{volume}{42}
+    \field{journaltitle}{International Journal of Psychophysiology}
+    \field{year}{2001}
+  \endentry
+\endsortlist
+\endinput
