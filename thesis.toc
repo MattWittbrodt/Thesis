@@ -6,28 +6,60 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{List of Figures}{vii}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Aim 3}{1}{chapter.1}
+\contentsline {chapter}{\numberline {1}Aim 1}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Abstract}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Introduction}{1}{section.1.2}
+\contentsline {section}{\numberline {1.2}Introduction}{2}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Methods}{1}{section.1.3}
+\contentsline {section}{\numberline {1.3}Methods}{3}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}EEG Acquisition and Processing}{1}{subsection.1.3.1}
+\contentsline {subsubsection}{Inclusion Criteria}{4}{subsubsection*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Results}{2}{section.1.4}
+\contentsline {subsubsection}{Selection of Studies}{4}{subsubsection*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Discussion}{2}{section.1.5}
+\contentsline {subsubsection}{Data extraction}{6}{subsubsection*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Conclusion}{2}{section.1.6}
+\contentsline {subsubsection}{Meta-Analysis}{7}{subsubsection*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Results}{8}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}Study Characteristics}{8}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}Primary Analyses}{8}{subsection.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.3}Moderator Analyses}{9}{subsection.1.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.4}Executive Function}{11}{subsection.1.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motor Functioning}{13}{subsubsection*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Studies with ${>}$2\% BM Loss Induced via Exercise-Heat Stress}{15}{subsubsection*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Discussion}{15}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Aim 3}{20}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Abstract}{20}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Introduction}{20}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Methods}{20}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}EEG Acquisition and Processing}{20}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Results}{21}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Discussion}{21}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Conclusion}{21}{section.2.6}
 \defcounter {refsection}{0}\relax 
 \renewcommand {\cftchappresnum }{Appendix }
 \defcounter {refsection}{0}\relax 
 \renewcommand {\cftchapnumwidth }{6em}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Summary Table of Studies with Dehydration and Cognition}{4}{Appendix.1.A}
+\contentsline {chapter}{\numberline {A}Summary Table of Studies with Dehydration and Cognition}{23}{Appendix.1.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {B}Supplemental Figures}{6}{Appendix.1.B}
+\contentsline {chapter}{\numberline {B}Supplemental Figures}{25}{Appendix.1.B}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{14}{chapter*.4}
+\contentsline {chapter}{References}{33}{chapter*.10}
